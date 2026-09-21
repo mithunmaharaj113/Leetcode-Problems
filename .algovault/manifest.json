@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:04:26.049Z",
+  "lastUpdated": "2026-09-21T09:04:40.428Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1849,6 +1849,326 @@
               "runtime": "135 ms",
               "memory": "46 MB",
               "githubPath": "LeetCode/Math/Largest Palindrome Product/"
+            }
+          }
+        },
+        "find-x-sum-of-all-k-long-subarrays-ii": {
+          "questionId": "3321",
+          "title": "Find X-Sum of All K-Long Subarrays II",
+          "titleSlug": "find-x-sum-of-all-k-long-subarrays-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981480427,
+              "runtime": "529 ms",
+              "memory": "184.5 MB",
+              "githubPath": "LeetCode/Array/Find X-Sum of All K-Long Subarrays II/"
+            }
+          }
+        },
+        "concatenated-words": {
+          "questionId": "472",
+          "title": "Concatenated Words",
+          "titleSlug": "concatenated-words",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "String",
+            "Dynamic Programming",
+            "Depth-First Search",
+            "Trie",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981480427,
+              "runtime": "118 ms",
+              "memory": "93 MB",
+              "githubPath": "LeetCode/Array/Concatenated Words/"
+            }
+          }
+        },
+        "count-the-repetitions": {
+          "questionId": "466",
+          "title": "Count The Repetitions",
+          "titleSlug": "count-the-repetitions",
+          "difficulty": "Hard",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981480428,
+              "runtime": "2 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Two Pointers/Count The Repetitions/"
+            }
+          }
+        },
+        "lfu-cache": {
+          "questionId": "460",
+          "title": "LFU Cache",
+          "titleSlug": "lfu-cache",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Design",
+            "Doubly-Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981480428,
+              "runtime": "75 ms",
+              "memory": "145.8 MB",
+              "githubPath": "LeetCode/Hash Table/LFU Cache/"
+            }
+          }
+        },
+        "poor-pigs": {
+          "questionId": "458",
+          "title": "Poor Pigs",
+          "titleSlug": "poor-pigs",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Combinatorics"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981480428,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Poor Pigs/"
+            }
+          }
+        },
+        "arithmetic-slices-ii-subsequence": {
+          "questionId": "446",
+          "title": "Arithmetic Slices II - Subsequence",
+          "titleSlug": "arithmetic-slices-ii-subsequence",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981480428,
+              "runtime": "35 ms",
+              "memory": "55.5 MB",
+              "githubPath": "LeetCode/Array/Arithmetic Slices II - Subsequence/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock-ii": {
+          "questionId": "122",
+          "title": "Best Time to Buy and Sell Stock II",
+          "titleSlug": "best-time-to-buy-and-sell-stock-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981480428,
+              "runtime": "0 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock II/"
+            }
+          }
+        },
+        "triangle": {
+          "questionId": "120",
+          "title": "Triangle",
+          "titleSlug": "triangle",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981480428,
+              "runtime": "3 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Triangle/"
+            }
+          }
+        },
+        "populating-next-right-pointers-in-each-node-ii": {
+          "questionId": "117",
+          "title": "Populating Next Right Pointers in Each Node II",
+          "titleSlug": "populating-next-right-pointers-in-each-node-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981480428,
+              "runtime": "2 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Linked List/Populating Next Right Pointers in Each Node II/"
+            }
+          }
+        },
+        "populating-next-right-pointers-in-each-node": {
+          "questionId": "116",
+          "title": "Populating Next Right Pointers in Each Node",
+          "titleSlug": "populating-next-right-pointers-in-each-node",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981480428,
+              "runtime": "0 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Linked List/Populating Next Right Pointers in Each Node/"
+            }
+          }
+        },
+        "flatten-binary-tree-to-linked-list": {
+          "questionId": "114",
+          "title": "Flatten Binary Tree to Linked List",
+          "titleSlug": "flatten-binary-tree-to-linked-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981480428,
+              "runtime": "1 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Linked List/Flatten Binary Tree to Linked List/"
+            }
+          }
+        },
+        "path-sum-ii": {
+          "questionId": "113",
+          "title": "Path Sum II",
+          "titleSlug": "path-sum-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Backtracking",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981480428,
+              "runtime": "1 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Backtracking/Path Sum II/"
+            }
+          }
+        },
+        "convert-sorted-list-to-binary-search-tree": {
+          "questionId": "109",
+          "title": "Convert Sorted List to Binary Search Tree",
+          "titleSlug": "convert-sorted-list-to-binary-search-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Divide and Conquer",
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981480428,
+              "runtime": "0 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Linked List/Convert Sorted List to Binary Search Tree/"
+            }
+          }
+        },
+        "binary-tree-level-order-traversal-ii": {
+          "questionId": "107",
+          "title": "Binary Tree Level Order Traversal II",
+          "titleSlug": "binary-tree-level-order-traversal-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981480428,
+              "runtime": "1 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal II/"
+            }
+          }
+        },
+        "construct-binary-tree-from-inorder-and-postorder-traversal": {
+          "questionId": "106",
+          "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+          "titleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981480428,
+              "runtime": "1 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/Construct Binary Tree from Inorder and Postorder Traversal/"
+            }
+          }
+        },
+        "construct-binary-tree-from-preorder-and-inorder-traversal": {
+          "questionId": "105",
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981480428,
+              "runtime": "5 ms",
+              "memory": "61 MB",
+              "githubPath": "LeetCode/Array/Construct Binary Tree from Preorder and Inorder Traversal/"
             }
           }
         }

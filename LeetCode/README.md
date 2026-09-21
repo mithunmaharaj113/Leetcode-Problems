@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981466051" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981480430" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -24,6 +24,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
 | 74 | [Search a 2D Matrix](./Array/Search%20a%202D%20Matrix/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/) | Medium |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/) | Medium |
+| 120 | [Triangle](./Array/Triangle/) | Medium |
+| 122 | [Best Time to Buy and Sell Stock II](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/) | Medium |
 | 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
 | 130 | [Surrounded Regions](./Array/Surrounded%20Regions/) | Medium |
 | 134 | [Gas Station](./Array/Gas%20Station/) | Medium |
@@ -36,7 +40,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
+| 446 | [Arithmetic Slices II - Subsequence](./Array/Arithmetic%20Slices%20II%20-%20Subsequence/) | Hard |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
+| 472 | [Concatenated Words](./Array/Concatenated%20Words/) | Hard |
 | 480 | [Sliding Window Median](./Array/Sliding%20Window%20Median/) | Hard |
 | 493 | [Reverse Pairs](./Array/Reverse%20Pairs/) | Hard |
 | 502 | [IPO](./Array/IPO/) | Hard |
@@ -54,7 +60,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 757 | [Set Intersection Size At Least Two](./Array/Set%20Intersection%20Size%20At%20Least%20Two/) | Hard |
 | 962 | [Maximum Width Ramp](./Array/Maximum%20Width%20Ramp/) | Medium |
 | 2528 | [Maximize the Minimum Powered City](./Array/Maximize%20the%20Minimum%20Powered%20City/) | Hard |
+| 3321 | [Find X-Sum of All K-Long Subarrays II](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II/) | Hard |
 | 3607 | [Power Grid Maintenance](./Array/Power%20Grid%20Maintenance/) | Medium |
+
+</details>
+
+
+### Backtracking
+<details>
+<summary>Click to expand Backtracking problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 113 | [Path Sum II](./Backtracking/Path%20Sum%20II/) | Medium |
 
 </details>
 
@@ -120,6 +138,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 146 | [LRU Cache](./Hash%20Table/LRU%20Cache/) | Medium |
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
+| 460 | [LFU Cache](./Hash%20Table/LFU%20Cache/) | Hard |
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
 | 1930 | [Unique Length-3 Palindromic Subsequences](./Hash%20Table/Unique%20Length-3%20Palindromic%20Subsequences/) | Medium |
 
@@ -133,6 +152,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
+| 109 | [Convert Sorted List to Binary Search Tree](./Linked%20List/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/) | Medium |
+| 114 | [Flatten Binary Tree to Linked List](./Linked%20List/Flatten%20Binary%20Tree%20to%20Linked%20List/) | Medium |
+| 116 | [Populating Next Right Pointers in Each Node](./Linked%20List/Populating%20Next%20Right%20Pointers%20in%20Each%20Node/) | Medium |
+| 117 | [Populating Next Right Pointers in Each Node II](./Linked%20List/Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II/) | Medium |
 | 143 | [Reorder List](./Linked%20List/Reorder%20List/) | Medium |
 | 147 | [Insertion Sort List](./Linked%20List/Insertion%20Sort%20List/) | Medium |
 | 148 | [Sort List](./Linked%20List/Sort%20List/) | Medium |
@@ -150,6 +173,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 458 | [Poor Pigs](./Math/Poor%20Pigs/) | Hard |
 | 479 | [Largest Palindrome Product](./Math/Largest%20Palindrome%20Product/) | Hard |
 | 483 | [Smallest Good Base](./Math/Smallest%20Good%20Base/) | Hard |
 | 564 | [Find the Closest Palindrome](./Math/Find%20the%20Closest%20Palindrome/) | Hard |
@@ -199,6 +223,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 107 | [Binary Tree Level Order Traversal II](./Tree/Binary%20Tree%20Level%20Order%20Traversal%20II/) | Medium |
 | 129 | [Sum Root to Leaf Numbers](./Tree/Sum%20Root%20to%20Leaf%20Numbers/) | Medium |
 
 </details>
@@ -214,6 +239,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 | 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
+| 466 | [Count The Repetitions](./Two%20Pointers/Count%20The%20Repetitions/) | Hard |
 
 </details>
 
