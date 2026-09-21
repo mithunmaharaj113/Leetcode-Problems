@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:05:28.197Z",
+  "lastUpdated": "2026-09-21T09:05:47.078Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3167,6 +3167,336 @@
               "runtime": "1 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Array/Jump Game/"
+            }
+          }
+        },
+        "spiral-matrix": {
+          "questionId": "54",
+          "title": "Spiral Matrix",
+          "titleSlug": "spiral-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981547078,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Array/Spiral Matrix/"
+            }
+          }
+        },
+        "maximum-subarray": {
+          "questionId": "53",
+          "title": "Maximum Subarray",
+          "titleSlug": "maximum-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981547078,
+              "runtime": "1 ms",
+              "memory": "77.2 MB",
+              "githubPath": "LeetCode/Array/Maximum Subarray/"
+            }
+          }
+        },
+        "powx-n": {
+          "questionId": "50",
+          "title": "Pow(x, n)",
+          "titleSlug": "powx-n",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981547078,
+              "runtime": "0 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Math/Pow(x, n)/"
+            }
+          }
+        },
+        "rotate-image": {
+          "questionId": "48",
+          "title": "Rotate Image",
+          "titleSlug": "rotate-image",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981547078,
+              "runtime": "0 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Array/Rotate Image/"
+            }
+          }
+        },
+        "permutations-ii": {
+          "questionId": "47",
+          "title": "Permutations II",
+          "titleSlug": "permutations-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981547078,
+              "runtime": "36 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Permutations II/"
+            }
+          }
+        },
+        "permutations": {
+          "questionId": "46",
+          "title": "Permutations",
+          "titleSlug": "permutations",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981547078,
+              "runtime": "2 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/Array/Permutations/"
+            }
+          }
+        },
+        "jump-game-ii": {
+          "questionId": "45",
+          "title": "Jump Game II",
+          "titleSlug": "jump-game-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981547078,
+              "runtime": "1 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Jump Game II/"
+            }
+          }
+        },
+        "multiply-strings": {
+          "questionId": "43",
+          "title": "Multiply Strings",
+          "titleSlug": "multiply-strings",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981547078,
+              "runtime": "3 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Math/Multiply Strings/"
+            }
+          }
+        },
+        "combination-sum-ii": {
+          "questionId": "40",
+          "title": "Combination Sum II",
+          "titleSlug": "combination-sum-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981547078,
+              "runtime": "5 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Combination Sum II/"
+            }
+          }
+        },
+        "group-anagrams": {
+          "questionId": "49",
+          "title": "Group Anagrams",
+          "titleSlug": "group-anagrams",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981547078,
+              "runtime": "6 ms",
+              "memory": "49.6 MB",
+              "githubPath": "LeetCode/Array/Group Anagrams/"
+            }
+          }
+        },
+        "serialize-and-deserialize-binary-tree": {
+          "questionId": "297",
+          "title": "Serialize and Deserialize Binary Tree",
+          "titleSlug": "serialize-and-deserialize-binary-tree",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Design",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981547078,
+              "runtime": "9 ms",
+              "memory": "49 MB",
+              "githubPath": "LeetCode/String/Serialize and Deserialize Binary Tree/"
+            }
+          }
+        },
+        "find-median-from-data-stream": {
+          "questionId": "295",
+          "title": "Find Median from Data Stream",
+          "titleSlug": "find-median-from-data-stream",
+          "difficulty": "Hard",
+          "tags": [
+            "Two Pointers",
+            "Design",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Data Stream"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981547078,
+              "runtime": "132 ms",
+              "memory": "111.6 MB",
+              "githubPath": "LeetCode/Two Pointers/Find Median from Data Stream/"
+            }
+          }
+        },
+        "expression-add-operators": {
+          "questionId": "282",
+          "title": "Expression Add Operators",
+          "titleSlug": "expression-add-operators",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "String",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981547078,
+              "runtime": "78 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/Math/Expression Add Operators/"
+            }
+          }
+        },
+        "integer-to-english-words": {
+          "questionId": "273",
+          "title": "Integer to English Words",
+          "titleSlug": "integer-to-english-words",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "String",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981547078,
+              "runtime": "5 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Math/Integer to English Words/"
+            }
+          }
+        },
+        "sliding-window-maximum": {
+          "questionId": "239",
+          "title": "Sliding Window Maximum",
+          "titleSlug": "sliding-window-maximum",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Queue",
+            "Sliding Window",
+            "Heap (Priority Queue)",
+            "Monotonic Queue",
+            "Range Minimum/Maximum Query"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981547078,
+              "runtime": "29 ms",
+              "memory": "149.8 MB",
+              "githubPath": "LeetCode/Array/Sliding Window Maximum/"
+            }
+          }
+        },
+        "number-of-digit-one": {
+          "questionId": "233",
+          "title": "Number of Digit One",
+          "titleSlug": "number-of-digit-one",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981547078,
+              "runtime": "0 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Math/Number of Digit One/"
+            }
+          }
+        },
+        "basic-calculator": {
+          "questionId": "224",
+          "title": "Basic Calculator",
+          "titleSlug": "basic-calculator",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "String",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981547078,
+              "runtime": "7 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Math/Basic Calculator/"
             }
           }
         }

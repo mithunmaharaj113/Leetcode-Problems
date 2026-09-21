@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981528200" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981547081" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -21,7 +21,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
+| 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
+| 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
+| 46 | [Permutations](./Array/Permutations/) | Medium |
+| 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
+| 48 | [Rotate Image](./Array/Rotate%20Image/) | Medium |
+| 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
+| 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
+| 54 | [Spiral Matrix](./Array/Spiral%20Matrix/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
 | 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
 | 57 | [Insert Interval](./Array/Insert%20Interval/) | Medium |
@@ -52,6 +60,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
+| 239 | [Sliding Window Maximum](./Array/Sliding%20Window%20Maximum/) | Hard |
 | 312 | [Burst Balloons](./Array/Burst%20Balloons/) | Hard |
 | 315 | [Count of Smaller Numbers After Self](./Array/Count%20of%20Smaller%20Numbers%20After%20Self/) | Hard |
 | 321 | [Create Maximum Number](./Array/Create%20Maximum%20Number/) | Hard |
@@ -209,9 +218,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
+| 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
 | 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
 | 89 | [Gray Code](./Math/Gray%20Code/) | Medium |
 | 96 | [Unique Binary Search Trees](./Math/Unique%20Binary%20Search%20Trees/) | Medium |
+| 224 | [Basic Calculator](./Math/Basic%20Calculator/) | Hard |
+| 233 | [Number of Digit One](./Math/Number%20of%20Digit%20One/) | Hard |
+| 273 | [Integer to English Words](./Math/Integer%20to%20English%20Words/) | Hard |
+| 282 | [Expression Add Operators](./Math/Expression%20Add%20Operators/) | Hard |
 | 458 | [Poor Pigs](./Math/Poor%20Pigs/) | Hard |
 | 479 | [Largest Palindrome Product](./Math/Largest%20Palindrome%20Product/) | Hard |
 | 483 | [Smallest Good Base](./Math/Smallest%20Good%20Base/) | Hard |
@@ -249,6 +264,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 93 | [Restore IP Addresses](./String/Restore%20IP%20Addresses/) | Medium |
 | 97 | [Interleaving String](./String/Interleaving%20String/) | Medium |
 | 131 | [Palindrome Partitioning](./String/Palindrome%20Partitioning/) | Medium |
+| 297 | [Serialize and Deserialize Binary Tree](./String/Serialize%20and%20Deserialize%20Binary%20Tree/) | Hard |
 | 301 | [Remove Invalid Parentheses](./String/Remove%20Invalid%20Parentheses/) | Hard |
 | 420 | [Strong Password Checker](./String/Strong%20Password%20Checker/) | Hard |
 | 488 | [Zuma Game](./String/Zuma%20Game/) | Hard |
@@ -299,6 +315,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
+| 295 | [Find Median from Data Stream](./Two%20Pointers/Find%20Median%20from%20Data%20Stream/) | Hard |
 | 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
 | 466 | [Count The Repetitions](./Two%20Pointers/Count%20The%20Repetitions/) | Hard |
 
