@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:03:58.856Z",
+  "lastUpdated": "2026-09-21T09:04:12.566Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1167,6 +1167,316 @@
               "runtime": "99 ms",
               "memory": "85.8 MB",
               "githubPath": "LeetCode/Array/Smallest Range Covering Elements from K Lists/"
+            }
+          }
+        },
+        "maximum-product-subarray": {
+          "questionId": "152",
+          "title": "Maximum Product Subarray",
+          "titleSlug": "maximum-product-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981452566,
+              "runtime": "1 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Maximum Product Subarray/"
+            }
+          }
+        },
+        "find-minimum-in-rotated-sorted-array": {
+          "questionId": "153",
+          "title": "Find Minimum in Rotated Sorted Array",
+          "titleSlug": "find-minimum-in-rotated-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981452566,
+              "runtime": "0 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Array/Find Minimum in Rotated Sorted Array/"
+            }
+          }
+        },
+        "course-schedule-iii": {
+          "questionId": "630",
+          "title": "Course Schedule III",
+          "titleSlug": "course-schedule-iii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981452566,
+              "runtime": "38 ms",
+              "memory": "57.4 MB",
+              "githubPath": "LeetCode/Array/Course Schedule III/"
+            }
+          }
+        },
+        "evaluate-reverse-polish-notation": {
+          "questionId": "150",
+          "title": "Evaluate Reverse Polish Notation",
+          "titleSlug": "evaluate-reverse-polish-notation",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981452566,
+              "runtime": "6 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Array/Evaluate Reverse Polish Notation/"
+            }
+          }
+        },
+        "sort-list": {
+          "questionId": "148",
+          "title": "Sort List",
+          "titleSlug": "sort-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Divide and Conquer",
+            "Sorting",
+            "Merge Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981452566,
+              "runtime": "9 ms",
+              "memory": "59.1 MB",
+              "githubPath": "LeetCode/Linked List/Sort List/"
+            }
+          }
+        },
+        "insertion-sort-list": {
+          "questionId": "147",
+          "title": "Insertion Sort List",
+          "titleSlug": "insertion-sort-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981452566,
+              "runtime": "18 ms",
+              "memory": "46.1 MB",
+              "githubPath": "LeetCode/Linked List/Insertion Sort List/"
+            }
+          }
+        },
+        "lru-cache": {
+          "questionId": "146",
+          "title": "LRU Cache",
+          "titleSlug": "lru-cache",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Design",
+            "Doubly-Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981452566,
+              "runtime": "50 ms",
+              "memory": "134 MB",
+              "githubPath": "LeetCode/Hash Table/LRU Cache/"
+            }
+          }
+        },
+        "reorder-list": {
+          "questionId": "143",
+          "title": "Reorder List",
+          "titleSlug": "reorder-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981452566,
+              "runtime": "2 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Linked List/Reorder List/"
+            }
+          }
+        },
+        "k-inverse-pairs-array": {
+          "questionId": "629",
+          "title": "K Inverse Pairs Array",
+          "titleSlug": "k-inverse-pairs-array",
+          "difficulty": "Hard",
+          "tags": [
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981452566,
+              "runtime": "14 ms",
+              "memory": "49.6 MB",
+              "githubPath": "LeetCode/Dynamic Programming/K Inverse Pairs Array/"
+            }
+          }
+        },
+        "non-negative-integers-without-consecutive-ones": {
+          "questionId": "600",
+          "title": "Non-negative Integers without Consecutive Ones",
+          "titleSlug": "non-negative-integers-without-consecutive-ones",
+          "difficulty": "Hard",
+          "tags": [
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981452566,
+              "runtime": "1623 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Non-negative Integers without Consecutive Ones/"
+            }
+          }
+        },
+        "tag-validator": {
+          "questionId": "591",
+          "title": "Tag Validator",
+          "titleSlug": "tag-validator",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981452566,
+              "runtime": "1 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/String/Tag Validator/"
+            }
+          }
+        },
+        "erect-the-fence": {
+          "questionId": "587",
+          "title": "Erect the Fence",
+          "titleSlug": "erect-the-fence",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Geometry",
+            "Convex Hull",
+            "Polygons"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981452566,
+              "runtime": "17 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Erect the Fence/"
+            }
+          }
+        },
+        "find-the-closest-palindrome": {
+          "questionId": "564",
+          "title": "Find the Closest Palindrome",
+          "titleSlug": "find-the-closest-palindrome",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981452566,
+              "runtime": "8 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Math/Find the Closest Palindrome/"
+            }
+          }
+        },
+        "maximize-the-minimum-powered-city": {
+          "questionId": "2528",
+          "title": "Maximize the Minimum Powered City",
+          "titleSlug": "maximize-the-minimum-powered-city",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Greedy",
+            "Queue",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981452566,
+              "runtime": "34 ms",
+              "memory": "84.7 MB",
+              "githubPath": "LeetCode/Array/Maximize the Minimum Powered City/"
+            }
+          }
+        },
+        "linked-list-cycle-ii": {
+          "questionId": "142",
+          "title": "Linked List Cycle II",
+          "titleSlug": "linked-list-cycle-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers",
+            "Floyd's Cycle Finding Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981452566,
+              "runtime": "0 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Hash Table/Linked List Cycle II/"
+            }
+          }
+        },
+        "word-break": {
+          "questionId": "139",
+          "title": "Word Break",
+          "titleSlug": "word-break",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Dynamic Programming",
+            "Trie",
+            "Memoization",
+            "Brute-Force Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981452566,
+              "runtime": "3 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Word Break/"
             }
           }
         }
