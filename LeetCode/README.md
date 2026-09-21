@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981509865" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981528200" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -22,9 +22,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
+| 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
 | 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
+| 57 | [Insert Interval](./Array/Insert%20Interval/) | Medium |
+| 59 | [Spiral Matrix II](./Array/Spiral%20Matrix%20II/) | Medium |
+| 63 | [Unique Paths II](./Array/Unique%20Paths%20II/) | Medium |
+| 64 | [Minimum Path Sum](./Array/Minimum%20Path%20Sum/) | Medium |
+| 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
 | 74 | [Search a 2D Matrix](./Array/Search%20a%202D%20Matrix/) | Medium |
+| 75 | [Sort Colors](./Array/Sort%20Colors/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
+| 79 | [Word Search](./Array/Word%20Search/) | Medium |
+| 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
+| 81 | [Search in Rotated Sorted Array II](./Array/Search%20in%20Rotated%20Sorted%20Array%20II/) | Medium |
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/) | Medium |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/) | Medium |
@@ -42,6 +52,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
+| 312 | [Burst Balloons](./Array/Burst%20Balloons/) | Hard |
 | 315 | [Count of Smaller Numbers After Self](./Array/Count%20of%20Smaller%20Numbers%20After%20Self/) | Hard |
 | 321 | [Create Maximum Number](./Array/Create%20Maximum%20Number/) | Hard |
 | 327 | [Count of Range Sum](./Array/Count%20of%20Range%20Sum/) | Hard |
@@ -89,6 +100,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 77 | [Combinations](./Backtracking/Combinations/) | Medium |
 | 113 | [Path Sum II](./Backtracking/Path%20Sum%20II/) | Medium |
 
 </details>
@@ -172,6 +184,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
+| 61 | [Rotate List](./Linked%20List/Rotate%20List/) | Medium |
 | 82 | [Remove Duplicates from Sorted List II](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List%20II/) | Medium |
 | 86 | [Partition List](./Linked%20List/Partition%20List/) | Medium |
 | 92 | [Reverse Linked List II](./Linked%20List/Reverse%20Linked%20List%20II/) | Medium |
@@ -196,6 +209,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
 | 89 | [Gray Code](./Math/Gray%20Code/) | Medium |
 | 96 | [Unique Binary Search Trees](./Math/Unique%20Binary%20Search%20Trees/) | Medium |
 | 458 | [Poor Pigs](./Math/Poor%20Pigs/) | Hard |
@@ -229,10 +243,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
+| 72 | [Edit Distance](./String/Edit%20Distance/) | Medium |
 | 91 | [Decode Ways](./String/Decode%20Ways/) | Medium |
 | 93 | [Restore IP Addresses](./String/Restore%20IP%20Addresses/) | Medium |
 | 97 | [Interleaving String](./String/Interleaving%20String/) | Medium |
 | 131 | [Palindrome Partitioning](./String/Palindrome%20Partitioning/) | Medium |
+| 301 | [Remove Invalid Parentheses](./String/Remove%20Invalid%20Parentheses/) | Hard |
 | 420 | [Strong Password Checker](./String/Strong%20Password%20Checker/) | Hard |
 | 488 | [Zuma Game](./String/Zuma%20Game/) | Hard |
 | 514 | [Freedom Trail](./String/Freedom%20Trail/) | Hard |

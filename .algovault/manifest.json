@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:05:09.862Z",
+  "lastUpdated": "2026-09-21T09:05:28.197Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2850,6 +2850,323 @@
               "runtime": "6 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/Array/Create Maximum Number/"
+            }
+          }
+        },
+        "burst-balloons": {
+          "questionId": "312",
+          "title": "Burst Balloons",
+          "titleSlug": "burst-balloons",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981528196,
+              "runtime": "110 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Array/Burst Balloons/"
+            }
+          }
+        },
+        "remove-invalid-parentheses": {
+          "questionId": "301",
+          "title": "Remove Invalid Parentheses",
+          "titleSlug": "remove-invalid-parentheses",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Backtracking",
+            "Breadth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981528196,
+              "runtime": "1 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/String/Remove Invalid Parentheses/"
+            }
+          }
+        },
+        "search-in-rotated-sorted-array-ii": {
+          "questionId": "81",
+          "title": "Search in Rotated Sorted Array II",
+          "titleSlug": "search-in-rotated-sorted-array-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981528196,
+              "runtime": "0 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Search in Rotated Sorted Array II/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array-ii": {
+          "questionId": "80",
+          "title": "Remove Duplicates from Sorted Array II",
+          "titleSlug": "remove-duplicates-from-sorted-array-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981528196,
+              "runtime": "0 ms",
+              "memory": "48.9 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array II/"
+            }
+          }
+        },
+        "word-search": {
+          "questionId": "79",
+          "title": "Word Search",
+          "titleSlug": "word-search",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Depth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981528196,
+              "runtime": "290 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Word Search/"
+            }
+          }
+        },
+        "combinations": {
+          "questionId": "77",
+          "title": "Combinations",
+          "titleSlug": "combinations",
+          "difficulty": "Medium",
+          "tags": [
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981528196,
+              "runtime": "21 ms",
+              "memory": "97.9 MB",
+              "githubPath": "LeetCode/Backtracking/Combinations/"
+            }
+          }
+        },
+        "sort-colors": {
+          "questionId": "75",
+          "title": "Sort Colors",
+          "titleSlug": "sort-colors",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting",
+            "Quicksort",
+            "Bubble Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981528196,
+              "runtime": "1 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Array/Sort Colors/"
+            }
+          }
+        },
+        "set-matrix-zeroes": {
+          "questionId": "73",
+          "title": "Set Matrix Zeroes",
+          "titleSlug": "set-matrix-zeroes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981528196,
+              "runtime": "1 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Set Matrix Zeroes/"
+            }
+          }
+        },
+        "edit-distance": {
+          "questionId": "72",
+          "title": "Edit Distance",
+          "titleSlug": "edit-distance",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981528197,
+              "runtime": "3 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/String/Edit Distance/"
+            }
+          }
+        },
+        "simplify-path": {
+          "questionId": "71",
+          "title": "Simplify Path",
+          "titleSlug": "simplify-path",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981528197,
+              "runtime": "5 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/String/Simplify Path/"
+            }
+          }
+        },
+        "minimum-path-sum": {
+          "questionId": "64",
+          "title": "Minimum Path Sum",
+          "titleSlug": "minimum-path-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981528197,
+              "runtime": "3 ms",
+              "memory": "50.4 MB",
+              "githubPath": "LeetCode/Array/Minimum Path Sum/"
+            }
+          }
+        },
+        "unique-paths-ii": {
+          "questionId": "63",
+          "title": "Unique Paths II",
+          "titleSlug": "unique-paths-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981528197,
+              "runtime": "0 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/Array/Unique Paths II/"
+            }
+          }
+        },
+        "unique-paths": {
+          "questionId": "62",
+          "title": "Unique Paths",
+          "titleSlug": "unique-paths",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Combinatorics"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981528197,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/Unique Paths/"
+            }
+          }
+        },
+        "rotate-list": {
+          "questionId": "61",
+          "title": "Rotate List",
+          "titleSlug": "rotate-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981528197,
+              "runtime": "0 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Linked List/Rotate List/"
+            }
+          }
+        },
+        "spiral-matrix-ii": {
+          "questionId": "59",
+          "title": "Spiral Matrix II",
+          "titleSlug": "spiral-matrix-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981528197,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Array/Spiral Matrix II/"
+            }
+          }
+        },
+        "insert-interval": {
+          "questionId": "57",
+          "title": "Insert Interval",
+          "titleSlug": "insert-interval",
+          "difficulty": "Medium",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981528197,
+              "runtime": "4 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Insert Interval/"
+            }
+          }
+        },
+        "jump-game": {
+          "questionId": "55",
+          "title": "Jump Game",
+          "titleSlug": "jump-game",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981528197,
+              "runtime": "1 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Array/Jump Game/"
             }
           }
         }
