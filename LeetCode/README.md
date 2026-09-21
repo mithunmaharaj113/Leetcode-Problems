@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981594122" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981606054" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -18,6 +18,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
+| 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
+| 15 | [3Sum](./Array/3Sum/) | Medium |
 | 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
 | 18 | [4Sum](./Array/4Sum/) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
@@ -120,6 +122,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 757 | [Set Intersection Size At Least Two](./Array/Set%20Intersection%20Size%20At%20Least%20Two/) | Hard |
 | 805 | [Split Array With Same Average](./Array/Split%20Array%20With%20Same%20Average/) | Hard |
 | 962 | [Maximum Width Ramp](./Array/Maximum%20Width%20Ramp/) | Medium |
+| 1295 | [Find Numbers with Even Number of Digits](./Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/) | Easy |
 | 2528 | [Maximize the Minimum Powered City](./Array/Maximize%20the%20Minimum%20Powered%20City/) | Hard |
 | 3321 | [Find X-Sum of All K-Long Subarrays II](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II/) | Hard |
 | 3347 | [Maximum Frequency of an Element After Performing Operations II](./Array/Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20II/) | Hard |
@@ -196,6 +199,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
+| 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
+| 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
 | 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
 | 30 | [Substring with Concatenation of All Words](./Hash%20Table/Substring%20with%20Concatenation%20of%20All%20Words/) | Hard |
 | 76 | [Minimum Window Substring](./Hash%20Table/Minimum%20Window%20Substring/) | Hard |
@@ -207,13 +212,16 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 142 | [Linked List Cycle II](./Hash%20Table/Linked%20List%20Cycle%20II/) | Medium |
 | 146 | [LRU Cache](./Hash%20Table/LRU%20Cache/) | Medium |
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
+| 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 352 | [Data Stream as Disjoint Intervals](./Hash%20Table/Data%20Stream%20as%20Disjoint%20Intervals/) | Hard |
 | 383 | [Ransom Note](./Hash%20Table/Ransom%20Note/) | Easy |
+| 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
 | 432 | [All O`one Data Structure](./Hash%20Table/All%20O%60one%20Data%20Structure/) | Hard |
 | 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
 | 460 | [LFU Cache](./Hash%20Table/LFU%20Cache/) | Hard |
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
 | 771 | [Jewels and Stones](./Hash%20Table/Jewels%20and%20Stones/) | Easy |
+| 1832 | [Check if the Sentence Is Pangram](./Hash%20Table/Check%20if%20the%20Sentence%20Is%20Pangram/) | Easy |
 | 1930 | [Unique Length-3 Palindromic Subsequences](./Hash%20Table/Unique%20Length-3%20Palindromic%20Subsequences/) | Medium |
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](./Hash%20Table/Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/) | Easy |
 
@@ -318,11 +326,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 420 | [Strong Password Checker](./String/Strong%20Password%20Checker/) | Hard |
 | 488 | [Zuma Game](./String/Zuma%20Game/) | Hard |
 | 514 | [Freedom Trail](./String/Freedom%20Trail/) | Hard |
+| 520 | [Detect Capital](./String/Detect%20Capital/) | Easy |
 | 591 | [Tag Validator](./String/Tag%20Validator/) | Hard |
 | 639 | [Decode Ways II](./String/Decode%20Ways%20II/) | Hard |
 | 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
 | 664 | [Strange Printer](./String/Strange%20Printer/) | Hard |
+| 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
+| 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
+| 1221 | [Split a String in Balanced Strings](./String/Split%20a%20String%20in%20Balanced%20Strings/) | Easy |
 | 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |
 
 </details>
@@ -364,6 +376,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
+| 151 | [Reverse Words in a String](./Two%20Pointers/Reverse%20Words%20in%20a%20String/) | Medium |
 | 295 | [Find Median from Data Stream](./Two%20Pointers/Find%20Median%20from%20Data%20Stream/) | Hard |
 | 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
 | 466 | [Count The Repetitions](./Two%20Pointers/Count%20The%20Repetitions/) | Hard |

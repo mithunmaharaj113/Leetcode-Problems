@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:06:34.119Z",
+  "lastUpdated": "2026-09-21T09:06:46.050Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4451,6 +4451,246 @@
               "runtime": "1 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Hash Table/Jewels and Stones/"
+            }
+          }
+        },
+        "check-if-the-sentence-is-pangram": {
+          "questionId": "1832",
+          "title": "Check if the Sentence Is Pangram",
+          "titleSlug": "check-if-the-sentence-is-pangram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981606050,
+              "runtime": "2 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Hash Table/Check if the Sentence Is Pangram/"
+            }
+          }
+        },
+        "3sum": {
+          "questionId": "15",
+          "title": "3Sum",
+          "titleSlug": "3sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981606050,
+              "runtime": "26 ms",
+              "memory": "51.4 MB",
+              "githubPath": "LeetCode/Array/3Sum/"
+            }
+          }
+        },
+        "roman-to-integer": {
+          "questionId": "13",
+          "title": "Roman to Integer",
+          "titleSlug": "roman-to-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981606050,
+              "runtime": "2 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Hash Table/Roman to Integer/"
+            }
+          }
+        },
+        "integer-to-roman": {
+          "questionId": "12",
+          "title": "Integer to Roman",
+          "titleSlug": "integer-to-roman",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981606050,
+              "runtime": "5 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Hash Table/Integer to Roman/"
+            }
+          }
+        },
+        "longest-common-prefix": {
+          "questionId": "14",
+          "title": "Longest Common Prefix",
+          "titleSlug": "longest-common-prefix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Trie"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981606050,
+              "runtime": "0 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Array/Longest Common Prefix/"
+            }
+          }
+        },
+        "split-a-string-in-balanced-strings": {
+          "questionId": "1221",
+          "title": "Split a String in Balanced Strings",
+          "titleSlug": "split-a-string-in-balanced-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Greedy",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981606050,
+              "runtime": "0 ms",
+              "memory": "41.1 MB",
+              "githubPath": "LeetCode/String/Split a String in Balanced Strings/"
+            }
+          }
+        },
+        "detect-capital": {
+          "questionId": "520",
+          "title": "Detect Capital",
+          "titleSlug": "detect-capital",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981606050,
+              "runtime": "2 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/String/Detect Capital/"
+            }
+          }
+        },
+        "to-lower-case": {
+          "questionId": "709",
+          "title": "To Lower Case",
+          "titleSlug": "to-lower-case",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981606050,
+              "runtime": "0 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/String/To Lower Case/"
+            }
+          }
+        },
+        "rotate-string": {
+          "questionId": "796",
+          "title": "Rotate String",
+          "titleSlug": "rotate-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981606050,
+              "runtime": "1 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/String/Rotate String/"
+            }
+          }
+        },
+        "first-unique-character-in-a-string": {
+          "questionId": "387",
+          "title": "First Unique Character in a String",
+          "titleSlug": "first-unique-character-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Queue",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981606050,
+              "runtime": "9 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Hash Table/First Unique Character in a String/"
+            }
+          }
+        },
+        "valid-anagram": {
+          "questionId": "242",
+          "title": "Valid Anagram",
+          "titleSlug": "valid-anagram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981606050,
+              "runtime": "5 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Hash Table/Valid Anagram/"
+            }
+          }
+        },
+        "reverse-words-in-a-string": {
+          "questionId": "151",
+          "title": "Reverse Words in a String",
+          "titleSlug": "reverse-words-in-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981606050,
+              "runtime": "6 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
+            }
+          }
+        },
+        "find-numbers-with-even-number-of-digits": {
+          "questionId": "1295",
+          "title": "Find Numbers with Even Number of Digits",
+          "titleSlug": "find-numbers-with-even-number-of-digits",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981606050,
+              "runtime": "1 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Array/Find Numbers with Even Number of Digits/"
             }
           }
         }
