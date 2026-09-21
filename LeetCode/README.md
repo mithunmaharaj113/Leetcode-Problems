@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981492394" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981509865" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -25,6 +25,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
 | 74 | [Search a 2D Matrix](./Array/Search%20a%202D%20Matrix/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
+| 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/) | Medium |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/) | Medium |
 | 120 | [Triangle](./Array/Triangle/) | Medium |
@@ -41,6 +42,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
+| 315 | [Count of Smaller Numbers After Self](./Array/Count%20of%20Smaller%20Numbers%20After%20Self/) | Hard |
+| 321 | [Create Maximum Number](./Array/Create%20Maximum%20Number/) | Hard |
+| 327 | [Count of Range Sum](./Array/Count%20of%20Range%20Sum/) | Hard |
+| 329 | [Longest Increasing Path in a Matrix](./Array/Longest%20Increasing%20Path%20in%20a%20Matrix/) | Hard |
+| 330 | [Patching Array](./Array/Patching%20Array/) | Hard |
+| 332 | [Reconstruct Itinerary](./Array/Reconstruct%20Itinerary/) | Hard |
+| 335 | [Self Crossing](./Array/Self%20Crossing/) | Hard |
+| 336 | [Palindrome Pairs](./Array/Palindrome%20Pairs/) | Hard |
+| 354 | [Russian Doll Envelopes](./Array/Russian%20Doll%20Envelopes/) | Hard |
 | 363 | [Max Sum of Rectangle No Larger Than K](./Array/Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K/) | Hard |
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](./Array/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/) | Hard |
 | 391 | [Perfect Rectangle](./Array/Perfect%20Rectangle/) | Hard |
@@ -123,6 +133,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 95 | [Unique Binary Search Trees II](./Dynamic%20Programming/Unique%20Binary%20Search%20Trees%20II/) | Medium |
 | 552 | [Student Attendance Record II](./Dynamic%20Programming/Student%20Attendance%20Record%20II/) | Hard |
 | 600 | [Non-negative Integers without Consecutive Ones](./Dynamic%20Programming/Non-negative%20Integers%20without%20Consecutive%20Ones/) | Hard |
 | 629 | [K Inverse Pairs Array](./Dynamic%20Programming/K%20Inverse%20Pairs%20Array/) | Hard |
@@ -144,6 +155,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 142 | [Linked List Cycle II](./Hash%20Table/Linked%20List%20Cycle%20II/) | Medium |
 | 146 | [LRU Cache](./Hash%20Table/LRU%20Cache/) | Medium |
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
+| 352 | [Data Stream as Disjoint Intervals](./Hash%20Table/Data%20Stream%20as%20Disjoint%20Intervals/) | Hard |
 | 432 | [All O`one Data Structure](./Hash%20Table/All%20O%60one%20Data%20Structure/) | Hard |
 | 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
 | 460 | [LFU Cache](./Hash%20Table/LFU%20Cache/) | Hard |
@@ -160,6 +172,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
+| 82 | [Remove Duplicates from Sorted List II](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List%20II/) | Medium |
+| 86 | [Partition List](./Linked%20List/Partition%20List/) | Medium |
+| 92 | [Reverse Linked List II](./Linked%20List/Reverse%20Linked%20List%20II/) | Medium |
 | 109 | [Convert Sorted List to Binary Search Tree](./Linked%20List/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/) | Medium |
 | 114 | [Flatten Binary Tree to Linked List](./Linked%20List/Flatten%20Binary%20Tree%20to%20Linked%20List/) | Medium |
 | 116 | [Populating Next Right Pointers in Each Node](./Linked%20List/Populating%20Next%20Right%20Pointers%20in%20Each%20Node/) | Medium |
@@ -181,6 +196,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 89 | [Gray Code](./Math/Gray%20Code/) | Medium |
+| 96 | [Unique Binary Search Trees](./Math/Unique%20Binary%20Search%20Trees/) | Medium |
 | 458 | [Poor Pigs](./Math/Poor%20Pigs/) | Hard |
 | 479 | [Largest Palindrome Product](./Math/Largest%20Palindrome%20Product/) | Hard |
 | 483 | [Smallest Good Base](./Math/Smallest%20Good%20Base/) | Hard |
@@ -212,6 +229,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 91 | [Decode Ways](./String/Decode%20Ways/) | Medium |
+| 93 | [Restore IP Addresses](./String/Restore%20IP%20Addresses/) | Medium |
 | 97 | [Interleaving String](./String/Interleaving%20String/) | Medium |
 | 131 | [Palindrome Partitioning](./String/Palindrome%20Partitioning/) | Medium |
 | 420 | [Strong Password Checker](./String/Strong%20Password%20Checker/) | Hard |

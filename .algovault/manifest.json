@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:04:52.391Z",
+  "lastUpdated": "2026-09-21T09:05:09.862Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2461,6 +2461,395 @@
               "runtime": "220 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Max Sum of Rectangle No Larger Than K/"
+            }
+          }
+        },
+        "russian-doll-envelopes": {
+          "questionId": "354",
+          "title": "Russian Doll Envelopes",
+          "titleSlug": "russian-doll-envelopes",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Dynamic Programming",
+            "Sorting",
+            "Longest Increasing Subsequence"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "39 ms",
+              "memory": "99.5 MB",
+              "githubPath": "LeetCode/Array/Russian Doll Envelopes/"
+            }
+          }
+        },
+        "data-stream-as-disjoint-intervals": {
+          "questionId": "352",
+          "title": "Data Stream as Disjoint Intervals",
+          "titleSlug": "data-stream-as-disjoint-intervals",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "Binary Search",
+            "Union-Find",
+            "Design",
+            "Data Stream",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "20 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Hash Table/Data Stream as Disjoint Intervals/"
+            }
+          }
+        },
+        "palindrome-pairs": {
+          "questionId": "336",
+          "title": "Palindrome Pairs",
+          "titleSlug": "palindrome-pairs",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Trie",
+            "Hash Function"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "836 ms",
+              "memory": "61.2 MB",
+              "githubPath": "LeetCode/Array/Palindrome Pairs/"
+            }
+          }
+        },
+        "unique-binary-search-trees": {
+          "questionId": "96",
+          "title": "Unique Binary Search Trees",
+          "titleSlug": "unique-binary-search-trees",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "0 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Math/Unique Binary Search Trees/"
+            }
+          }
+        },
+        "self-crossing": {
+          "questionId": "335",
+          "title": "Self Crossing",
+          "titleSlug": "self-crossing",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Geometry"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "2 ms",
+              "memory": "59.4 MB",
+              "githubPath": "LeetCode/Array/Self Crossing/"
+            }
+          }
+        },
+        "unique-binary-search-trees-ii": {
+          "questionId": "95",
+          "title": "Unique Binary Search Trees II",
+          "titleSlug": "unique-binary-search-trees-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Dynamic Programming",
+            "Backtracking",
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "4 ms",
+              "memory": "52.2 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Unique Binary Search Trees II/"
+            }
+          }
+        },
+        "restore-ip-addresses": {
+          "questionId": "93",
+          "title": "Restore IP Addresses",
+          "titleSlug": "restore-ip-addresses",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "2 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/String/Restore IP Addresses/"
+            }
+          }
+        },
+        "reverse-linked-list-ii": {
+          "questionId": "92",
+          "title": "Reverse Linked List II",
+          "titleSlug": "reverse-linked-list-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Linked List/Reverse Linked List II/"
+            }
+          }
+        },
+        "decode-ways": {
+          "questionId": "91",
+          "title": "Decode Ways",
+          "titleSlug": "decode-ways",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "1 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/String/Decode Ways/"
+            }
+          }
+        },
+        "subsets-ii": {
+          "questionId": "90",
+          "title": "Subsets II",
+          "titleSlug": "subsets-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "3 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Subsets II/"
+            }
+          }
+        },
+        "gray-code": {
+          "questionId": "89",
+          "title": "Gray Code",
+          "titleSlug": "gray-code",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "5 ms",
+              "memory": "54.5 MB",
+              "githubPath": "LeetCode/Math/Gray Code/"
+            }
+          }
+        },
+        "partition-list": {
+          "questionId": "86",
+          "title": "Partition List",
+          "titleSlug": "partition-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "0 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/Linked List/Partition List/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-list-ii": {
+          "questionId": "82",
+          "title": "Remove Duplicates from Sorted List II",
+          "titleSlug": "remove-duplicates-from-sorted-list-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "0 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Linked List/Remove Duplicates from Sorted List II/"
+            }
+          }
+        },
+        "reconstruct-itinerary": {
+          "questionId": "332",
+          "title": "Reconstruct Itinerary",
+          "titleSlug": "reconstruct-itinerary",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "String",
+            "Depth-First Search",
+            "Graph Theory",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Eulerian Circuit",
+            "Eulerian Path",
+            "Semi-Eulerian Graph"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "10 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Reconstruct Itinerary/"
+            }
+          }
+        },
+        "patching-array": {
+          "questionId": "330",
+          "title": "Patching Array",
+          "titleSlug": "patching-array",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "0 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/Patching Array/"
+            }
+          }
+        },
+        "longest-increasing-path-in-a-matrix": {
+          "questionId": "329",
+          "title": "Longest Increasing Path in a Matrix",
+          "titleSlug": "longest-increasing-path-in-a-matrix",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph Theory",
+            "Topological Sort",
+            "Memoization",
+            "Matrix",
+            "Directed Acyclic Graph"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "8 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Longest Increasing Path in a Matrix/"
+            }
+          }
+        },
+        "count-of-range-sum": {
+          "questionId": "327",
+          "title": "Count of Range Sum",
+          "titleSlug": "count-of-range-sum",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer",
+            "Binary Indexed Tree",
+            "Segment Tree",
+            "Merge Sort",
+            "Ordered Set",
+            "Treap"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "52 ms",
+              "memory": "79.1 MB",
+              "githubPath": "LeetCode/Array/Count of Range Sum/"
+            }
+          }
+        },
+        "count-of-smaller-numbers-after-self": {
+          "questionId": "315",
+          "title": "Count of Smaller Numbers After Self",
+          "titleSlug": "count-of-smaller-numbers-after-self",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer",
+            "Binary Indexed Tree",
+            "Segment Tree",
+            "Merge Sort",
+            "Ordered Set",
+            "Treap"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "220 ms",
+              "memory": "120.4 MB",
+              "githubPath": "LeetCode/Array/Count of Smaller Numbers After Self/"
+            }
+          }
+        },
+        "create-maximum-number": {
+          "questionId": "321",
+          "title": "Create Maximum Number",
+          "titleSlug": "create-maximum-number",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Stack",
+            "Greedy",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981509862,
+              "runtime": "6 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Array/Create Maximum Number/"
             }
           }
         }
