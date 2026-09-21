@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:03:12.515Z",
+  "lastUpdated": "2026-09-21T09:03:20.746Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -206,6 +206,143 @@
               "runtime": "437 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Combine Two Tables/"
+            }
+          }
+        },
+        "not-boring-movies": {
+          "questionId": "620",
+          "title": "Not Boring Movies",
+          "titleSlug": "not-boring-movies",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1789981400746,
+              "runtime": "262 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Not Boring Movies/"
+            }
+          }
+        },
+        "triangle-judgement": {
+          "questionId": "610",
+          "title": "Triangle Judgement",
+          "titleSlug": "triangle-judgement",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1789981400746,
+              "runtime": "287 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Triangle Judgement/"
+            }
+          }
+        },
+        "duplicate-emails": {
+          "questionId": "182",
+          "title": "Duplicate Emails",
+          "titleSlug": "duplicate-emails",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1789981400746,
+              "runtime": "421 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Duplicate Emails/"
+            }
+          }
+        },
+        "second-highest-salary": {
+          "questionId": "176",
+          "title": "Second Highest Salary",
+          "titleSlug": "second-highest-salary",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1789981400746,
+              "runtime": "292 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Second Highest Salary/"
+            }
+          }
+        },
+        "game-play-analysis-i": {
+          "questionId": "511",
+          "title": "Game Play Analysis I",
+          "titleSlug": "game-play-analysis-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1789981400746,
+              "runtime": "579 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Game Play Analysis I/"
+            }
+          }
+        },
+        "find-customer-referee": {
+          "questionId": "584",
+          "title": "Find Customer Referee",
+          "titleSlug": "find-customer-referee",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1789981400746,
+              "runtime": "549 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Find Customer Referee/"
+            }
+          }
+        },
+        "big-countries": {
+          "questionId": "595",
+          "title": "Big Countries",
+          "titleSlug": "big-countries",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1789981400746,
+              "runtime": "313 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Big Countries/"
+            }
+          }
+        },
+        "degree-of-an-array": {
+          "questionId": "697",
+          "title": "Degree of an Array",
+          "titleSlug": "degree-of-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981400746,
+              "runtime": "24 ms",
+              "memory": "50.2 MB",
+              "githubPath": "LeetCode/Array/Degree of an Array/"
             }
           }
         }

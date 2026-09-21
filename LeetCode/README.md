@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981392516" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981400747" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -18,6 +18,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
+| 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
 
 </details>
 
@@ -29,8 +30,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 175 | [Combine Two Tables](./Database/Combine%20Two%20Tables/) | Easy |
+| 176 | [Second Highest Salary](./Database/Second%20Highest%20Salary/) | Medium |
 | 181 | [Employees Earning More Than Their Managers](./Database/Employees%20Earning%20More%20Than%20Their%20Managers/) | Easy |
+| 182 | [Duplicate Emails](./Database/Duplicate%20Emails/) | Easy |
 | 197 | [Rising Temperature](./Database/Rising%20Temperature/) | Easy |
+| 511 | [Game Play Analysis I](./Database/Game%20Play%20Analysis%20I/) | Easy |
+| 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
+| 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
+| 610 | [Triangle Judgement](./Database/Triangle%20Judgement/) | Easy |
+| 620 | [Not Boring Movies](./Database/Not%20Boring%20Movies/) | Easy |
 | 1280 | [Students and Examinations](./Database/Students%20and%20Examinations/) | Easy |
 | 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
 
