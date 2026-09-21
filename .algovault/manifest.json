@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:04:40.428Z",
+  "lastUpdated": "2026-09-21T09:04:52.391Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2169,6 +2169,298 @@
               "runtime": "5 ms",
               "memory": "61 MB",
               "githubPath": "LeetCode/Array/Construct Binary Tree from Preorder and Inorder Traversal/"
+            }
+          }
+        },
+        "binary-tree-zigzag-level-order-traversal": {
+          "questionId": "103",
+          "title": "Binary Tree Zigzag Level Order Traversal",
+          "titleSlug": "binary-tree-zigzag-level-order-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981492388,
+              "runtime": "0 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Tree/Binary Tree Zigzag Level Order Traversal/"
+            }
+          }
+        },
+        "binary-tree-level-order-traversal": {
+          "questionId": "102",
+          "title": "Binary Tree Level Order Traversal",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981492388,
+              "runtime": "1 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal/"
+            }
+          }
+        },
+        "recover-binary-search-tree": {
+          "questionId": "99",
+          "title": "Recover Binary Search Tree",
+          "titleSlug": "recover-binary-search-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981492389,
+              "runtime": "1 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Tree/Recover Binary Search Tree/"
+            }
+          }
+        },
+        "validate-binary-search-tree": {
+          "questionId": "98",
+          "title": "Validate Binary Search Tree",
+          "titleSlug": "validate-binary-search-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981492389,
+              "runtime": "0 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Tree/Validate Binary Search Tree/"
+            }
+          }
+        },
+        "interleaving-string": {
+          "questionId": "97",
+          "title": "Interleaving String",
+          "titleSlug": "interleaving-string",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981492389,
+              "runtime": "3 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/String/Interleaving String/"
+            }
+          }
+        },
+        "k-th-smallest-in-lexicographical-order": {
+          "questionId": "440",
+          "title": "K-th Smallest in Lexicographical Order",
+          "titleSlug": "k-th-smallest-in-lexicographical-order",
+          "difficulty": "Hard",
+          "tags": [
+            "Trie"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981492389,
+              "runtime": "1 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Trie/K-th Smallest in Lexicographical Order/"
+            }
+          }
+        },
+        "all-oone-data-structure": {
+          "questionId": "432",
+          "title": "All O`one Data Structure",
+          "titleSlug": "all-oone-data-structure",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Design",
+            "Doubly-Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981492389,
+              "runtime": "93 ms",
+              "memory": "80.8 MB",
+              "githubPath": "LeetCode/Hash Table/All O`one Data Structure/"
+            }
+          }
+        },
+        "strong-password-checker": {
+          "questionId": "420",
+          "title": "Strong Password Checker",
+          "titleSlug": "strong-password-checker",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Greedy",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981492389,
+              "runtime": "2 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/String/Strong Password Checker/"
+            }
+          }
+        },
+        "split-array-largest-sum": {
+          "questionId": "410",
+          "title": "Split Array Largest Sum",
+          "titleSlug": "split-array-largest-sum",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Dynamic Programming",
+            "Greedy",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981492389,
+              "runtime": "0 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Array/Split Array Largest Sum/"
+            }
+          }
+        },
+        "trapping-rain-water-ii": {
+          "questionId": "407",
+          "title": "Trapping Rain Water II",
+          "titleSlug": "trapping-rain-water-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Breadth-First Search",
+            "Heap (Priority Queue)",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981492390,
+              "runtime": "20 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Trapping Rain Water II/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array": {
+          "questionId": "26",
+          "title": "Remove Duplicates from Sorted Array",
+          "titleSlug": "remove-duplicates-from-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981492390,
+              "runtime": "1 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
+            }
+          }
+        },
+        "frog-jump": {
+          "questionId": "403",
+          "title": "Frog Jump",
+          "titleSlug": "frog-jump",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981492390,
+              "runtime": "49 ms",
+              "memory": "49.4 MB",
+              "githubPath": "LeetCode/Array/Frog Jump/"
+            }
+          }
+        },
+        "perfect-rectangle": {
+          "questionId": "391",
+          "title": "Perfect Rectangle",
+          "titleSlug": "perfect-rectangle",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Geometry",
+            "Sweep Line"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981492390,
+              "runtime": "37 ms",
+              "memory": "55.7 MB",
+              "githubPath": "LeetCode/Array/Perfect Rectangle/"
+            }
+          }
+        },
+        "insert-delete-getrandom-o1-duplicates-allowed": {
+          "questionId": "381",
+          "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+          "titleSlug": "insert-delete-getrandom-o1-duplicates-allowed",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Design",
+            "Randomized"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981492391,
+              "runtime": "63 ms",
+              "memory": "98.9 MB",
+              "githubPath": "LeetCode/Array/Insert Delete GetRandom O(1) - Duplicates allowed/"
+            }
+          }
+        },
+        "max-sum-of-rectangle-no-larger-than-k": {
+          "questionId": "363",
+          "title": "Max Sum of Rectangle No Larger Than K",
+          "titleSlug": "max-sum-of-rectangle-no-larger-than-k",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Matrix",
+            "Prefix Sum",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981492391,
+              "runtime": "220 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Max Sum of Rectangle No Larger Than K/"
             }
           }
         }

@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981480430" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981492394" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -18,6 +18,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
+| 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
@@ -40,6 +41,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
+| 363 | [Max Sum of Rectangle No Larger Than K](./Array/Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K/) | Hard |
+| 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](./Array/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/) | Hard |
+| 391 | [Perfect Rectangle](./Array/Perfect%20Rectangle/) | Hard |
+| 403 | [Frog Jump](./Array/Frog%20Jump/) | Hard |
+| 407 | [Trapping Rain Water II](./Array/Trapping%20Rain%20Water%20II/) | Hard |
+| 410 | [Split Array Largest Sum](./Array/Split%20Array%20Largest%20Sum/) | Hard |
 | 446 | [Arithmetic Slices II - Subsequence](./Array/Arithmetic%20Slices%20II%20-%20Subsequence/) | Hard |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 472 | [Concatenated Words](./Array/Concatenated%20Words/) | Hard |
@@ -137,6 +144,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 142 | [Linked List Cycle II](./Hash%20Table/Linked%20List%20Cycle%20II/) | Medium |
 | 146 | [LRU Cache](./Hash%20Table/LRU%20Cache/) | Medium |
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
+| 432 | [All O`one Data Structure](./Hash%20Table/All%20O%60one%20Data%20Structure/) | Hard |
 | 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
 | 460 | [LFU Cache](./Hash%20Table/LFU%20Cache/) | Hard |
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
@@ -204,7 +212,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 97 | [Interleaving String](./String/Interleaving%20String/) | Medium |
 | 131 | [Palindrome Partitioning](./String/Palindrome%20Partitioning/) | Medium |
+| 420 | [Strong Password Checker](./String/Strong%20Password%20Checker/) | Hard |
 | 488 | [Zuma Game](./String/Zuma%20Game/) | Hard |
 | 514 | [Freedom Trail](./String/Freedom%20Trail/) | Hard |
 | 591 | [Tag Validator](./String/Tag%20Validator/) | Hard |
@@ -223,8 +233,23 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 98 | [Validate Binary Search Tree](./Tree/Validate%20Binary%20Search%20Tree/) | Medium |
+| 99 | [Recover Binary Search Tree](./Tree/Recover%20Binary%20Search%20Tree/) | Medium |
+| 102 | [Binary Tree Level Order Traversal](./Tree/Binary%20Tree%20Level%20Order%20Traversal/) | Medium |
+| 103 | [Binary Tree Zigzag Level Order Traversal](./Tree/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/) | Medium |
 | 107 | [Binary Tree Level Order Traversal II](./Tree/Binary%20Tree%20Level%20Order%20Traversal%20II/) | Medium |
 | 129 | [Sum Root to Leaf Numbers](./Tree/Sum%20Root%20to%20Leaf%20Numbers/) | Medium |
+
+</details>
+
+
+### Trie
+<details>
+<summary>Click to expand Trie problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 440 | [K-th Smallest in Lexicographical Order](./Trie/K-th%20Smallest%20in%20Lexicographical%20Order/) | Hard |
 
 </details>
 
