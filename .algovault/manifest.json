@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:01:31.763Z",
+  "lastUpdated": "2026-09-21T09:03:12.515Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -15,10 +15,197 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981291763,
+              "syncedAt": 1789981392514,
               "runtime": "2 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "cpp": {
+              "syncedAt": 1789981392514,
+              "runtime": "3 ms",
+              "memory": "17.7 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            },
+            "java": {
+              "syncedAt": 1789981392514,
+              "runtime": "62 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "letter-combinations-of-a-phone-number": {
+          "questionId": "17",
+          "title": "Letter Combinations of a Phone Number",
+          "titleSlug": "letter-combinations-of-a-phone-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981392514,
+              "runtime": "1 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
+            }
+          }
+        },
+        "merge-intervals": {
+          "questionId": "56",
+          "title": "Merge Intervals",
+          "titleSlug": "merge-intervals",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Quicksort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981392514,
+              "runtime": "8 ms",
+              "memory": "49.2 MB",
+              "githubPath": "LeetCode/Array/Merge Intervals/"
+            }
+          }
+        },
+        "find-all-anagrams-in-a-string": {
+          "questionId": "438",
+          "title": "Find All Anagrams in a String",
+          "titleSlug": "find-all-anagrams-in-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981392514,
+              "runtime": "11 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
+            }
+          }
+        },
+        "permutation-in-string": {
+          "questionId": "567",
+          "title": "Permutation in String",
+          "titleSlug": "permutation-in-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981392514,
+              "runtime": "740 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Hash Table/Permutation in String/"
+            }
+          }
+        },
+        "students-and-examinations": {
+          "questionId": "1280",
+          "title": "Students and Examinations",
+          "titleSlug": "students-and-examinations",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1789981392514,
+              "runtime": "1171 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Students and Examinations/"
+            }
+          }
+        },
+        "recyclable-and-low-fat-products": {
+          "questionId": "1757",
+          "title": "Recyclable and Low Fat Products",
+          "titleSlug": "recyclable-and-low-fat-products",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1789981392514,
+              "runtime": "569 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
+            }
+          }
+        },
+        "rising-temperature": {
+          "questionId": "197",
+          "title": "Rising Temperature",
+          "titleSlug": "rising-temperature",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1789981392514,
+              "runtime": "491 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Rising Temperature/"
+            }
+          }
+        },
+        "employees-earning-more-than-their-managers": {
+          "questionId": "181",
+          "title": "Employees Earning More Than Their Managers",
+          "titleSlug": "employees-earning-more-than-their-managers",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1789981392514,
+              "runtime": "395 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
+            }
+          }
+        },
+        "combine-two-tables": {
+          "questionId": "175",
+          "title": "Combine Two Tables",
+          "titleSlug": "combine-two-tables",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1789981392515,
+              "runtime": "437 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Combine Two Tables/"
             }
           }
         }
