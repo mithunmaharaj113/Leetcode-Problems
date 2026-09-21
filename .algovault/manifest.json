@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:03:20.746Z",
+  "lastUpdated": "2026-09-21T09:03:28.116Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -343,6 +343,138 @@
               "runtime": "24 ms",
               "memory": "50.2 MB",
               "githubPath": "LeetCode/Array/Degree of an Array/"
+            }
+          }
+        },
+        "continuous-subarray-sum": {
+          "questionId": "523",
+          "title": "Continuous Subarray Sum",
+          "titleSlug": "continuous-subarray-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Prefix Sum",
+            "Pigeonhole Principle"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981408115,
+              "runtime": "24 ms",
+              "memory": "139.8 MB",
+              "githubPath": "LeetCode/Array/Continuous Subarray Sum/"
+            }
+          }
+        },
+        "product-of-array-except-self": {
+          "questionId": "238",
+          "title": "Product of Array Except Self",
+          "titleSlug": "product-of-array-except-self",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981408115,
+              "runtime": "2 ms",
+              "memory": "72.5 MB",
+              "githubPath": "LeetCode/Array/Product of Array Except Self/"
+            }
+          }
+        },
+        "minimum-size-subarray-sum": {
+          "questionId": "209",
+          "title": "Minimum Size Subarray Sum",
+          "titleSlug": "minimum-size-subarray-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981408115,
+              "runtime": "1 ms",
+              "memory": "69.5 MB",
+              "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
+            }
+          }
+        },
+        "odd-even-linked-list": {
+          "questionId": "328",
+          "title": "Odd Even Linked List",
+          "titleSlug": "odd-even-linked-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981408115,
+              "runtime": "0 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Linked List/Odd Even Linked List/"
+            }
+          }
+        },
+        "maximum-average-subarray-i": {
+          "questionId": "643",
+          "title": "Maximum Average Subarray I",
+          "titleSlug": "maximum-average-subarray-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981408115,
+              "runtime": "6 ms",
+              "memory": "69.8 MB",
+              "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
+            }
+          }
+        },
+        "longest-palindromic-substring": {
+          "questionId": "5",
+          "title": "Longest Palindromic Substring",
+          "titleSlug": "longest-palindromic-substring",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming",
+            "Manacher"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981408115,
+              "runtime": "195 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
+            }
+          }
+        },
+        "valid-palindrome": {
+          "questionId": "125",
+          "title": "Valid Palindrome",
+          "titleSlug": "valid-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981408115,
+              "runtime": "2 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
             }
           }
         }
