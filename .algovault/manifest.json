@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:06:56.290Z",
+  "lastUpdated": "2026-09-21T09:07:00.627Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4851,6 +4851,25 @@
               "runtime": "1 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
+            }
+          }
+        },
+        "add-two-numbers": {
+          "questionId": "2",
+          "title": "Add Two Numbers",
+          "titleSlug": "add-two-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981620627,
+              "runtime": "1 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Linked List/Add Two Numbers/"
             }
           }
         }
