@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981452568" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981466051" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -24,6 +24,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
 | 74 | [Search a 2D Matrix](./Array/Search%20a%202D%20Matrix/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
+| 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
+| 130 | [Surrounded Regions](./Array/Surrounded%20Regions/) | Medium |
+| 134 | [Gas Station](./Array/Gas%20Station/) | Medium |
+| 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
 | 139 | [Word Break](./Array/Word%20Break/) | Medium |
 | 150 | [Evaluate Reverse Polish Notation](./Array/Evaluate%20Reverse%20Polish%20Notation/) | Medium |
 | 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
@@ -33,7 +37,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
+| 480 | [Sliding Window Median](./Array/Sliding%20Window%20Median/) | Hard |
+| 493 | [Reverse Pairs](./Array/Reverse%20Pairs/) | Hard |
+| 502 | [IPO](./Array/IPO/) | Hard |
+| 517 | [Super Washing Machines](./Array/Super%20Washing%20Machines/) | Hard |
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
+| 546 | [Remove Boxes](./Array/Remove%20Boxes/) | Hard |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
 | 575 | [Distribute Candies](./Array/Distribute%20Candies/) | Easy |
 | 587 | [Erect the Fence](./Array/Erect%20the%20Fence/) | Hard |
@@ -45,6 +54,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 757 | [Set Intersection Size At Least Two](./Array/Set%20Intersection%20Size%20At%20Least%20Two/) | Hard |
 | 962 | [Maximum Width Ramp](./Array/Maximum%20Width%20Ramp/) | Medium |
 | 2528 | [Maximize the Minimum Powered City](./Array/Maximize%20the%20Minimum%20Powered%20City/) | Hard |
+| 3607 | [Power Grid Maintenance](./Array/Power%20Grid%20Maintenance/) | Medium |
 
 </details>
 
@@ -88,6 +98,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 552 | [Student Attendance Record II](./Dynamic%20Programming/Student%20Attendance%20Record%20II/) | Hard |
 | 600 | [Non-negative Integers without Consecutive Ones](./Dynamic%20Programming/Non-negative%20Integers%20without%20Consecutive%20Ones/) | Hard |
 | 629 | [K Inverse Pairs Array](./Dynamic%20Programming/K%20Inverse%20Pairs%20Array/) | Hard |
 
@@ -102,6 +113,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
+| 133 | [Clone Graph](./Hash%20Table/Clone%20Graph/) | Medium |
+| 138 | [Copy List with Random Pointer](./Hash%20Table/Copy%20List%20with%20Random%20Pointer/) | Medium |
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 142 | [Linked List Cycle II](./Hash%20Table/Linked%20List%20Cycle%20II/) | Medium |
 | 146 | [LRU Cache](./Hash%20Table/LRU%20Cache/) | Medium |
@@ -137,6 +150,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 479 | [Largest Palindrome Product](./Math/Largest%20Palindrome%20Product/) | Hard |
+| 483 | [Smallest Good Base](./Math/Smallest%20Good%20Base/) | Hard |
 | 564 | [Find the Closest Palindrome](./Math/Find%20the%20Closest%20Palindrome/) | Hard |
 | 668 | [Kth Smallest Number in Multiplication Table](./Math/Kth%20Smallest%20Number%20in%20Multiplication%20Table/) | Hard |
 
@@ -165,12 +180,26 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 131 | [Palindrome Partitioning](./String/Palindrome%20Partitioning/) | Medium |
+| 488 | [Zuma Game](./String/Zuma%20Game/) | Hard |
+| 514 | [Freedom Trail](./String/Freedom%20Trail/) | Hard |
 | 591 | [Tag Validator](./String/Tag%20Validator/) | Hard |
 | 639 | [Decode Ways II](./String/Decode%20Ways%20II/) | Hard |
 | 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
 | 664 | [Strange Printer](./String/Strange%20Printer/) | Hard |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |
+
+</details>
+
+
+### Tree
+<details>
+<summary>Click to expand Tree problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 129 | [Sum Root to Leaf Numbers](./Tree/Sum%20Root%20to%20Leaf%20Numbers/) | Medium |
 
 </details>
 

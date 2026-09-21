@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:04:12.566Z",
+  "lastUpdated": "2026-09-21T09:04:26.049Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1477,6 +1477,378 @@
               "runtime": "3 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/Word Break/"
+            }
+          }
+        },
+        "copy-list-with-random-pointer": {
+          "questionId": "138",
+          "title": "Copy List with Random Pointer",
+          "titleSlug": "copy-list-with-random-pointer",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "0 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Hash Table/Copy List with Random Pointer/"
+            }
+          }
+        },
+        "single-number-ii": {
+          "questionId": "137",
+          "title": "Single Number II",
+          "titleSlug": "single-number-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "6 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/Array/Single Number II/"
+            }
+          }
+        },
+        "gas-station": {
+          "questionId": "134",
+          "title": "Gas Station",
+          "titleSlug": "gas-station",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "2 ms",
+              "memory": "119.4 MB",
+              "githubPath": "LeetCode/Array/Gas Station/"
+            }
+          }
+        },
+        "student-attendance-record-ii": {
+          "questionId": "552",
+          "title": "Student Attendance Record II",
+          "titleSlug": "student-attendance-record-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "167 ms",
+              "memory": "178.9 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Student Attendance Record II/"
+            }
+          }
+        },
+        "remove-boxes": {
+          "questionId": "546",
+          "title": "Remove Boxes",
+          "titleSlug": "remove-boxes",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "28 ms",
+              "memory": "71.6 MB",
+              "githubPath": "LeetCode/Array/Remove Boxes/"
+            }
+          }
+        },
+        "super-washing-machines": {
+          "questionId": "517",
+          "title": "Super Washing Machines",
+          "titleSlug": "super-washing-machines",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "1 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/Super Washing Machines/"
+            }
+          }
+        },
+        "freedom-trail": {
+          "questionId": "514",
+          "title": "Freedom Trail",
+          "titleSlug": "freedom-trail",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Depth-First Search",
+            "Breadth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "10 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/String/Freedom Trail/"
+            }
+          }
+        },
+        "ipo": {
+          "questionId": "502",
+          "title": "IPO",
+          "titleSlug": "ipo",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "111 ms",
+              "memory": "133 MB",
+              "githubPath": "LeetCode/Array/IPO/"
+            }
+          }
+        },
+        "power-grid-maintenance": {
+          "questionId": "3607",
+          "title": "Power Grid Maintenance",
+          "titleSlug": "power-grid-maintenance",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Graph Theory",
+            "Heap (Priority Queue)",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "109 ms",
+              "memory": "261.4 MB",
+              "githubPath": "LeetCode/Array/Power Grid Maintenance/"
+            }
+          }
+        },
+        "clone-graph": {
+          "questionId": "133",
+          "title": "Clone Graph",
+          "titleSlug": "clone-graph",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "25 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Hash Table/Clone Graph/"
+            }
+          }
+        },
+        "palindrome-partitioning": {
+          "questionId": "131",
+          "title": "Palindrome Partitioning",
+          "titleSlug": "palindrome-partitioning",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "7 ms",
+              "memory": "65.1 MB",
+              "githubPath": "LeetCode/String/Palindrome Partitioning/"
+            }
+          }
+        },
+        "surrounded-regions": {
+          "questionId": "130",
+          "title": "Surrounded Regions",
+          "titleSlug": "surrounded-regions",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "3 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Surrounded Regions/"
+            }
+          }
+        },
+        "sum-root-to-leaf-numbers": {
+          "questionId": "129",
+          "title": "Sum Root to Leaf Numbers",
+          "titleSlug": "sum-root-to-leaf-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "0 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Tree/Sum Root to Leaf Numbers/"
+            }
+          }
+        },
+        "longest-consecutive-sequence": {
+          "questionId": "128",
+          "title": "Longest Consecutive Sequence",
+          "titleSlug": "longest-consecutive-sequence",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Union-Find"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "37 ms",
+              "memory": "95.8 MB",
+              "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
+            }
+          }
+        },
+        "reverse-pairs": {
+          "questionId": "493",
+          "title": "Reverse Pairs",
+          "titleSlug": "reverse-pairs",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer",
+            "Binary Indexed Tree",
+            "Segment Tree",
+            "Merge Sort",
+            "Ordered Set",
+            "Treap"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "76 ms",
+              "memory": "58.8 MB",
+              "githubPath": "LeetCode/Array/Reverse Pairs/"
+            }
+          }
+        },
+        "zuma-game": {
+          "questionId": "488",
+          "title": "Zuma Game",
+          "titleSlug": "zuma-game",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Stack",
+            "Breadth-First Search",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "1353 ms",
+              "memory": "210.8 MB",
+              "githubPath": "LeetCode/String/Zuma Game/"
+            }
+          }
+        },
+        "smallest-good-base": {
+          "questionId": "483",
+          "title": "Smallest Good Base",
+          "titleSlug": "smallest-good-base",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "1 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Math/Smallest Good Base/"
+            }
+          }
+        },
+        "sliding-window-median": {
+          "questionId": "480",
+          "title": "Sliding Window Median",
+          "titleSlug": "sliding-window-median",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Heap (Priority Queue)",
+            "Treap"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "128 ms",
+              "memory": "65.8 MB",
+              "githubPath": "LeetCode/Array/Sliding Window Median/"
+            }
+          }
+        },
+        "largest-palindrome-product": {
+          "questionId": "479",
+          "title": "Largest Palindrome Product",
+          "titleSlug": "largest-palindrome-product",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981466049,
+              "runtime": "135 ms",
+              "memory": "46 MB",
+              "githubPath": "LeetCode/Math/Largest Palindrome Product/"
             }
           }
         }
