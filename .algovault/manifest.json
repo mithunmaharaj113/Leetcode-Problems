@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:06:03.882Z",
+  "lastUpdated": "2026-09-21T09:06:18.883Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3852,6 +3852,256 @@
               "runtime": "5 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Array/Word Break II/"
+            }
+          }
+        },
+        "candy": {
+          "questionId": "135",
+          "title": "Candy",
+          "titleSlug": "candy",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981578883,
+              "runtime": "3 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Array/Candy/"
+            }
+          }
+        },
+        "palindrome-partitioning-ii": {
+          "questionId": "132",
+          "title": "Palindrome Partitioning II",
+          "titleSlug": "palindrome-partitioning-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981578883,
+              "runtime": "45 ms",
+              "memory": "73.7 MB",
+              "githubPath": "LeetCode/String/Palindrome Partitioning II/"
+            }
+          }
+        },
+        "n-queens-ii": {
+          "questionId": "52",
+          "title": "N-Queens II",
+          "titleSlug": "n-queens-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Backtracking",
+            "Algorithm X"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981578883,
+              "runtime": "1 ms",
+              "memory": "40.8 MB",
+              "githubPath": "LeetCode/Backtracking/N-Queens II/"
+            }
+          }
+        },
+        "wildcard-matching": {
+          "questionId": "44",
+          "title": "Wildcard Matching",
+          "titleSlug": "wildcard-matching",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Greedy",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981578883,
+              "runtime": "2 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/String/Wildcard Matching/"
+            }
+          }
+        },
+        "longest-valid-parentheses": {
+          "questionId": "32",
+          "title": "Longest Valid Parentheses",
+          "titleSlug": "longest-valid-parentheses",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Stack",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981578883,
+              "runtime": "4 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/String/Longest Valid Parentheses/"
+            }
+          }
+        },
+        "substring-with-concatenation-of-all-words": {
+          "questionId": "30",
+          "title": "Substring with Concatenation of All Words",
+          "titleSlug": "substring-with-concatenation-of-all-words",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981578883,
+              "runtime": "11 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Hash Table/Substring with Concatenation of All Words/"
+            }
+          }
+        },
+        "reverse-nodes-in-k-group": {
+          "questionId": "25",
+          "title": "Reverse Nodes in k-Group",
+          "titleSlug": "reverse-nodes-in-k-group",
+          "difficulty": "Hard",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981578883,
+              "runtime": "0 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Linked List/Reverse Nodes in k-Group/"
+            }
+          }
+        },
+        "merge-k-sorted-lists": {
+          "questionId": "23",
+          "title": "Merge k Sorted Lists",
+          "titleSlug": "merge-k-sorted-lists",
+          "difficulty": "Hard",
+          "tags": [
+            "Linked List",
+            "Divide and Conquer",
+            "Heap (Priority Queue)",
+            "Merge Sort",
+            "Tournament Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981578883,
+              "runtime": "4 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Linked List/Merge k Sorted Lists/"
+            }
+          }
+        },
+        "maximum-frequency-of-an-element-after-performing-operations-ii": {
+          "questionId": "3347",
+          "title": "Maximum Frequency of an Element After Performing Operations II",
+          "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Sorting",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981578883,
+              "runtime": "30 ms",
+              "memory": "56.9 MB",
+              "githubPath": "LeetCode/Array/Maximum Frequency of an Element After Performing Operations II/"
+            }
+          }
+        },
+        "text-justification": {
+          "questionId": "68",
+          "title": "Text Justification",
+          "titleSlug": "text-justification",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981578883,
+              "runtime": "0 ms",
+              "memory": "41.7 MB",
+              "githubPath": "LeetCode/Array/Text Justification/"
+            }
+          }
+        },
+        "valid-number": {
+          "questionId": "65",
+          "title": "Valid Number",
+          "titleSlug": "valid-number",
+          "difficulty": "Hard",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981578883,
+              "runtime": "1 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/String/Valid Number/"
+            }
+          }
+        },
+        "trapping-rain-water": {
+          "questionId": "42",
+          "title": "Trapping Rain Water",
+          "titleSlug": "trapping-rain-water",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Dynamic Programming",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981578883,
+              "runtime": "1 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Trapping Rain Water/"
+            }
+          }
+        },
+        "word-ladder": {
+          "questionId": "127",
+          "title": "Word Ladder",
+          "titleSlug": "word-ladder",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Breadth-First Search",
+            "Bidirectional Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981578883,
+              "runtime": "45 ms",
+              "memory": "45.9 MB",
+              "githubPath": "LeetCode/Hash Table/Word Ladder/"
             }
           }
         }
