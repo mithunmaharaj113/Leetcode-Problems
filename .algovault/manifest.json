@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:03:28.116Z",
+  "lastUpdated": "2026-09-21T09:03:38.766Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -475,6 +475,249 @@
               "runtime": "2 ms",
               "memory": "44.3 MB",
               "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
+            }
+          }
+        },
+        "length-of-last-word": {
+          "questionId": "58",
+          "title": "Length of Last Word",
+          "titleSlug": "length-of-last-word",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981418766,
+              "runtime": "1 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/String/Length of Last Word/"
+            }
+          }
+        },
+        "n-queens": {
+          "questionId": "51",
+          "title": "N-Queens",
+          "titleSlug": "n-queens",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Algorithm X"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981418766,
+              "runtime": "3 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Array/N-Queens/"
+            }
+          }
+        },
+        "find-the-index-of-the-first-occurrence-in-a-string": {
+          "questionId": "28",
+          "title": "Find the Index of the First Occurrence in a String",
+          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "String Matching",
+            "Z Algorithm",
+            "Knuth–Morris–Pratt Algorithm",
+            "Boyer–Moore String-Search Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981418766,
+              "runtime": "0 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
+            }
+          }
+        },
+        "combination-sum": {
+          "questionId": "39",
+          "title": "Combination Sum",
+          "titleSlug": "combination-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981418766,
+              "runtime": "2 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Combination Sum/"
+            }
+          }
+        },
+        "subsets": {
+          "questionId": "78",
+          "title": "Subsets",
+          "titleSlug": "subsets",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981418766,
+              "runtime": "1 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Array/Subsets/"
+            }
+          }
+        },
+        "delete-node-in-a-linked-list": {
+          "questionId": "237",
+          "title": "Delete Node in a Linked List",
+          "titleSlug": "delete-node-in-a-linked-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981418766,
+              "runtime": "0 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Linked List/Delete Node in a Linked List/"
+            }
+          }
+        },
+        "linked-list-cycle": {
+          "questionId": "141",
+          "title": "Linked List Cycle",
+          "titleSlug": "linked-list-cycle",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers",
+            "Floyd's Cycle Finding Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981418766,
+              "runtime": "0 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
+            }
+          }
+        },
+        "merge-two-sorted-lists": {
+          "questionId": "21",
+          "title": "Merge Two Sorted Lists",
+          "titleSlug": "merge-two-sorted-lists",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981418766,
+              "runtime": "0 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
+            }
+          }
+        },
+        "reverse-linked-list": {
+          "questionId": "206",
+          "title": "Reverse Linked List",
+          "titleSlug": "reverse-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981418766,
+              "runtime": "0 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Linked List/Reverse Linked List/"
+            }
+          }
+        },
+        "middle-of-the-linked-list": {
+          "questionId": "876",
+          "title": "Middle of the Linked List",
+          "titleSlug": "middle-of-the-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981418766,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
+            }
+          }
+        },
+        "dota2-senate": {
+          "questionId": "649",
+          "title": "Dota2 Senate",
+          "titleSlug": "dota2-senate",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Greedy",
+            "Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981418766,
+              "runtime": "13 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/String/Dota2 Senate/"
+            }
+          }
+        },
+        "number-of-recent-calls": {
+          "questionId": "933",
+          "title": "Number of Recent Calls",
+          "titleSlug": "number-of-recent-calls",
+          "difficulty": "Easy",
+          "tags": [
+            "Design",
+            "Queue",
+            "Data Stream"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981418766,
+              "runtime": "22 ms",
+              "memory": "59.6 MB",
+              "githubPath": "LeetCode/Design/Number of Recent Calls/"
+            }
+          }
+        },
+        "implement-queue-using-stacks": {
+          "questionId": "232",
+          "title": "Implement Queue using Stacks",
+          "titleSlug": "implement-queue-using-stacks",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Design",
+            "Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981418766,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Stack/Implement Queue using Stacks/"
             }
           }
         }

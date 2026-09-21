@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981408117" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981418768" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -17,7 +17,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
+| 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
+| 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
+| 78 | [Subsets](./Array/Subsets/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
@@ -49,6 +52,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Design
+<details>
+<summary>Click to expand Design problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 933 | [Number of Recent Calls](./Design/Number%20of%20Recent%20Calls/) | Easy |
+
+</details>
+
+
 ### Hash Table
 <details>
 <summary>Click to expand Hash Table problems</summary>
@@ -57,6 +71,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
+| 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
 
@@ -69,7 +84,34 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
+| 206 | [Reverse Linked List](./Linked%20List/Reverse%20Linked%20List/) | Easy |
+| 237 | [Delete Node in a Linked List](./Linked%20List/Delete%20Node%20in%20a%20Linked%20List/) | Medium |
 | 328 | [Odd Even Linked List](./Linked%20List/Odd%20Even%20Linked%20List/) | Medium |
+| 876 | [Middle of the Linked List](./Linked%20List/Middle%20of%20the%20Linked%20List/) | Easy |
+
+</details>
+
+
+### Stack
+<details>
+<summary>Click to expand Stack problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 232 | [Implement Queue using Stacks](./Stack/Implement%20Queue%20using%20Stacks/) | Easy |
+
+</details>
+
+
+### String
+<details>
+<summary>Click to expand String problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
 
 </details>
 
@@ -81,6 +123,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
+| 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 
 </details>
