@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:03:38.766Z",
+  "lastUpdated": "2026-09-21T09:03:48.387Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -718,6 +718,208 @@
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Stack/Implement Queue using Stacks/"
+            }
+          }
+        },
+        "maximum-width-ramp": {
+          "questionId": "962",
+          "title": "Maximum Width Ramp",
+          "titleSlug": "maximum-width-ramp",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981428387,
+              "runtime": "4 ms",
+              "memory": "59.5 MB",
+              "githubPath": "LeetCode/Array/Maximum Width Ramp/"
+            }
+          }
+        },
+        "container-with-most-water": {
+          "questionId": "11",
+          "title": "Container With Most Water",
+          "titleSlug": "container-with-most-water",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981428387,
+              "runtime": "5 ms",
+              "memory": "77.3 MB",
+              "githubPath": "LeetCode/Array/Container With Most Water/"
+            }
+          }
+        },
+        "min-stack": {
+          "questionId": "155",
+          "title": "Min Stack",
+          "titleSlug": "min-stack",
+          "difficulty": "Medium",
+          "tags": [
+            "Stack",
+            "Design"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981428387,
+              "runtime": "34 ms",
+              "memory": "99.9 MB",
+              "githubPath": "LeetCode/Stack/Min Stack/"
+            }
+          }
+        },
+        "zigzag-conversion": {
+          "questionId": "6",
+          "title": "Zigzag Conversion",
+          "titleSlug": "zigzag-conversion",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981428387,
+              "runtime": "42 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/String/Zigzag Conversion/"
+            }
+          }
+        },
+        "subarray-sum-equals-k": {
+          "questionId": "560",
+          "title": "Subarray Sum Equals K",
+          "titleSlug": "subarray-sum-equals-k",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981428387,
+              "runtime": "24 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Array/Subarray Sum Equals K/"
+            }
+          }
+        },
+        "count-and-say": {
+          "questionId": "38",
+          "title": "Count and Say",
+          "titleSlug": "count-and-say",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981428387,
+              "runtime": "2 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/String/Count and Say/"
+            }
+          }
+        },
+        "removing-stars-from-a-string": {
+          "questionId": "2390",
+          "title": "Removing Stars From a String",
+          "titleSlug": "removing-stars-from-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981428387,
+              "runtime": "63 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/String/Removing Stars From a String/"
+            }
+          }
+        },
+        "remove-all-adjacent-duplicates-in-string": {
+          "questionId": "1047",
+          "title": "Remove All Adjacent Duplicates In String",
+          "titleSlug": "remove-all-adjacent-duplicates-in-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981428387,
+              "runtime": "25 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
+            }
+          }
+        },
+        "valid-parentheses": {
+          "questionId": "20",
+          "title": "Valid Parentheses",
+          "titleSlug": "valid-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981428387,
+              "runtime": "3 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/String/Valid Parentheses/"
+            }
+          }
+        },
+        "distribute-candies": {
+          "questionId": "575",
+          "title": "Distribute Candies",
+          "titleSlug": "distribute-candies",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981428387,
+              "runtime": "30 ms",
+              "memory": "48.5 MB",
+              "githubPath": "LeetCode/Array/Distribute Candies/"
+            }
+          }
+        },
+        "find-all-numbers-disappeared-in-an-array": {
+          "questionId": "448",
+          "title": "Find All Numbers Disappeared in an Array",
+          "titleSlug": "find-all-numbers-disappeared-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981428387,
+              "runtime": "6 ms",
+              "memory": "67.2 MB",
+              "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
             }
           }
         }

@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981418768" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1789981428388" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -17,15 +17,20 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
+| 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
+| 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
+| 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
+| 575 | [Distribute Candies](./Array/Distribute%20Candies/) | Easy |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
+| 962 | [Maximum Width Ramp](./Array/Maximum%20Width%20Ramp/) | Medium |
 
 </details>
 
@@ -99,6 +104,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 155 | [Min Stack](./Stack/Min%20Stack/) | Medium |
 | 232 | [Implement Queue using Stacks](./Stack/Implement%20Queue%20using%20Stacks/) | Easy |
 
 </details>
@@ -110,8 +116,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
+| 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
+| 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
+| 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
+| 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |
 
 </details>
 
