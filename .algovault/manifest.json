@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:05:47.078Z",
+  "lastUpdated": "2026-09-21T09:06:03.882Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3497,6 +3497,361 @@
               "runtime": "7 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/Math/Basic Calculator/"
+            }
+          }
+        },
+        "contains-duplicate-iii": {
+          "questionId": "220",
+          "title": "Contains Duplicate III",
+          "titleSlug": "contains-duplicate-iii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Sliding Window",
+            "Sorting",
+            "Bucket Sort",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981563872,
+              "runtime": "58 ms",
+              "memory": "127.2 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate III/"
+            }
+          }
+        },
+        "valid-sudoku": {
+          "questionId": "36",
+          "title": "Valid Sudoku",
+          "titleSlug": "valid-sudoku",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981563872,
+              "runtime": "2 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Array/Valid Sudoku/"
+            }
+          }
+        },
+        "find-first-and-last-position-of-element-in-sorted-array": {
+          "questionId": "34",
+          "title": "Find First and Last Position of Element in Sorted Array",
+          "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981563873,
+              "runtime": "0 ms",
+              "memory": "46.1 MB",
+              "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
+            }
+          }
+        },
+        "search-in-rotated-sorted-array": {
+          "questionId": "33",
+          "title": "Search in Rotated Sorted Array",
+          "titleSlug": "search-in-rotated-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981563873,
+              "runtime": "0 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Array/Search in Rotated Sorted Array/"
+            }
+          }
+        },
+        "next-permutation": {
+          "questionId": "31",
+          "title": "Next Permutation",
+          "titleSlug": "next-permutation",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981563873,
+              "runtime": "0 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Array/Next Permutation/"
+            }
+          }
+        },
+        "divide-two-integers": {
+          "questionId": "29",
+          "title": "Divide Two Integers",
+          "titleSlug": "divide-two-integers",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981563873,
+              "runtime": "1 ms",
+              "memory": "40.8 MB",
+              "githubPath": "LeetCode/Math/Divide Two Integers/"
+            }
+          }
+        },
+        "swap-nodes-in-pairs": {
+          "questionId": "24",
+          "title": "Swap Nodes in Pairs",
+          "titleSlug": "swap-nodes-in-pairs",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981563873,
+              "runtime": "0 ms",
+              "memory": "41.5 MB",
+              "githubPath": "LeetCode/Linked List/Swap Nodes in Pairs/"
+            }
+          }
+        },
+        "generate-parentheses": {
+          "questionId": "22",
+          "title": "Generate Parentheses",
+          "titleSlug": "generate-parentheses",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Backtracking",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981563873,
+              "runtime": "2 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/String/Generate Parentheses/"
+            }
+          }
+        },
+        "remove-nth-node-from-end-of-list": {
+          "questionId": "19",
+          "title": "Remove Nth Node From End of List",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981563873,
+              "runtime": "0 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/Linked List/Remove Nth Node From End of List/"
+            }
+          }
+        },
+        "4sum": {
+          "questionId": "18",
+          "title": "4Sum",
+          "titleSlug": "4sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981563873,
+              "runtime": "15 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Array/4Sum/"
+            }
+          }
+        },
+        "the-skyline-problem": {
+          "questionId": "218",
+          "title": "The Skyline Problem",
+          "titleSlug": "the-skyline-problem",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Binary Indexed Tree",
+            "Segment Tree",
+            "Sweep Line",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981563873,
+              "runtime": "237 ms",
+              "memory": "51.4 MB",
+              "githubPath": "LeetCode/Array/The Skyline Problem/"
+            }
+          }
+        },
+        "shortest-palindrome": {
+          "questionId": "214",
+          "title": "Shortest Palindrome",
+          "titleSlug": "shortest-palindrome",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Rolling Hash",
+            "String Matching",
+            "Hash Function",
+            "Manacher",
+            "Z Algorithm",
+            "Knuth–Morris–Pratt Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981563873,
+              "runtime": "98 ms",
+              "memory": "46 MB",
+              "githubPath": "LeetCode/String/Shortest Palindrome/"
+            }
+          }
+        },
+        "word-search-ii": {
+          "questionId": "212",
+          "title": "Word Search II",
+          "titleSlug": "word-search-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Trie",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981563873,
+              "runtime": "223 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Word Search II/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock-iv": {
+          "questionId": "188",
+          "title": "Best Time to Buy and Sell Stock IV",
+          "titleSlug": "best-time-to-buy-and-sell-stock-iv",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981563873,
+              "runtime": "13 ms",
+              "memory": "48.1 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock IV/"
+            }
+          }
+        },
+        "dungeon-game": {
+          "questionId": "174",
+          "title": "Dungeon Game",
+          "titleSlug": "dungeon-game",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981563873,
+              "runtime": "0 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Dungeon Game/"
+            }
+          }
+        },
+        "find-minimum-in-rotated-sorted-array-ii": {
+          "questionId": "154",
+          "title": "Find Minimum in Rotated Sorted Array II",
+          "titleSlug": "find-minimum-in-rotated-sorted-array-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981563873,
+              "runtime": "0 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Find Minimum in Rotated Sorted Array II/"
+            }
+          }
+        },
+        "max-points-on-a-line": {
+          "questionId": "149",
+          "title": "Max Points on a Line",
+          "titleSlug": "max-points-on-a-line",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Geometry",
+            "Euclidean Algorithm",
+            "Greatest Common Divisor"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981563873,
+              "runtime": "11 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Array/Max Points on a Line/"
+            }
+          }
+        },
+        "word-break-ii": {
+          "questionId": "140",
+          "title": "Word Break II",
+          "titleSlug": "word-break-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Dynamic Programming",
+            "Backtracking",
+            "Trie",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981563873,
+              "runtime": "5 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Array/Word Break II/"
             }
           }
         }
