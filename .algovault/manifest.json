@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:06:18.883Z",
+  "lastUpdated": "2026-09-21T09:06:34.119Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4102,6 +4102,355 @@
               "runtime": "45 ms",
               "memory": "45.9 MB",
               "githubPath": "LeetCode/Hash Table/Word Ladder/"
+            }
+          }
+        },
+        "word-ladder-ii": {
+          "questionId": "126",
+          "title": "Word Ladder II",
+          "titleSlug": "word-ladder-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Backtracking",
+            "Breadth-First Search",
+            "Bidirectional Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981594117,
+              "runtime": "19 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Hash Table/Word Ladder II/"
+            }
+          }
+        },
+        "binary-tree-maximum-path-sum": {
+          "questionId": "124",
+          "title": "Binary Tree Maximum Path Sum",
+          "titleSlug": "binary-tree-maximum-path-sum",
+          "difficulty": "Hard",
+          "tags": [
+            "Dynamic Programming",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree",
+            "DP on Trees"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981594117,
+              "runtime": "0 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Binary Tree Maximum Path Sum/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock-iii": {
+          "questionId": "123",
+          "title": "Best Time to Buy and Sell Stock III",
+          "titleSlug": "best-time-to-buy-and-sell-stock-iii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981594118,
+              "runtime": "4 ms",
+              "memory": "61 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock III/"
+            }
+          }
+        },
+        "distinct-subsequences": {
+          "questionId": "115",
+          "title": "Distinct Subsequences",
+          "titleSlug": "distinct-subsequences",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981594118,
+              "runtime": "19 ms",
+              "memory": "51.1 MB",
+              "githubPath": "LeetCode/String/Distinct Subsequences/"
+            }
+          }
+        },
+        "maximal-rectangle": {
+          "questionId": "85",
+          "title": "Maximal Rectangle",
+          "titleSlug": "maximal-rectangle",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Stack",
+            "Matrix",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981594118,
+              "runtime": "19 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Maximal Rectangle/"
+            }
+          }
+        },
+        "scramble-string": {
+          "questionId": "87",
+          "title": "Scramble String",
+          "titleSlug": "scramble-string",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981594118,
+              "runtime": "3 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/String/Scramble String/"
+            }
+          }
+        },
+        "minimum-window-substring": {
+          "questionId": "76",
+          "title": "Minimum Window Substring",
+          "titleSlug": "minimum-window-substring",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981594118,
+              "runtime": "17 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Hash Table/Minimum Window Substring/"
+            }
+          }
+        },
+        "largest-rectangle-in-histogram": {
+          "questionId": "84",
+          "title": "Largest Rectangle in Histogram",
+          "titleSlug": "largest-rectangle-in-histogram",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack",
+            "Range Minimum/Maximum Query"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981594118,
+              "runtime": "71 ms",
+              "memory": "60.5 MB",
+              "githubPath": "LeetCode/Array/Largest Rectangle in Histogram/"
+            }
+          }
+        },
+        "permutation-sequence": {
+          "questionId": "60",
+          "title": "Permutation Sequence",
+          "titleSlug": "permutation-sequence",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981594118,
+              "runtime": "1 ms",
+              "memory": "41.1 MB",
+              "githubPath": "LeetCode/Math/Permutation Sequence/"
+            }
+          }
+        },
+        "first-missing-positive": {
+          "questionId": "41",
+          "title": "First Missing Positive",
+          "titleSlug": "first-missing-positive",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981594118,
+              "runtime": "27 ms",
+              "memory": "56.5 MB",
+              "githubPath": "LeetCode/Array/First Missing Positive/"
+            }
+          }
+        },
+        "sudoku-solver": {
+          "questionId": "37",
+          "title": "Sudoku Solver",
+          "titleSlug": "sudoku-solver",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Backtracking",
+            "Matrix",
+            "Algorithm X",
+            "Dancing Links"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981594118,
+              "runtime": "374 ms",
+              "memory": "41.2 MB",
+              "githubPath": "LeetCode/Array/Sudoku Solver/"
+            }
+          }
+        },
+        "3sum-closest": {
+          "questionId": "16",
+          "title": "3Sum Closest",
+          "titleSlug": "3sum-closest",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981594118,
+              "runtime": "9 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/3Sum Closest/"
+            }
+          }
+        },
+        "reshape-the-matrix": {
+          "questionId": "566",
+          "title": "Reshape the Matrix",
+          "titleSlug": "reshape-the-matrix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981594118,
+              "runtime": "0 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/Reshape the Matrix/"
+            }
+          }
+        },
+        "split-array-with-same-average": {
+          "questionId": "805",
+          "title": "Split Array With Same Average",
+          "titleSlug": "split-array-with-same-average",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Meet in the Middle",
+            "Bitmask"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981594118,
+              "runtime": "624 ms",
+              "memory": "41.4 MB",
+              "githubPath": "LeetCode/Array/Split Array With Same Average/"
+            }
+          }
+        },
+        "check-if-number-has-equal-digit-count-and-digit-value": {
+          "questionId": "2283",
+          "title": "Check if Number Has Equal Digit Count and Digit Value",
+          "titleSlug": "check-if-number-has-equal-digit-count-and-digit-value",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981594118,
+              "runtime": "1 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Hash Table/Check if Number Has Equal Digit Count and Digit Value/"
+            }
+          }
+        },
+        "ransom-note": {
+          "questionId": "383",
+          "title": "Ransom Note",
+          "titleSlug": "ransom-note",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981594119,
+              "runtime": "2 ms",
+              "memory": "44.6 MB",
+              "githubPath": "LeetCode/Hash Table/Ransom Note/"
+            }
+          }
+        },
+        "power-of-three": {
+          "questionId": "326",
+          "title": "Power of Three",
+          "titleSlug": "power-of-three",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981594119,
+              "runtime": "12 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Math/Power of Three/"
+            }
+          }
+        },
+        "jewels-and-stones": {
+          "questionId": "771",
+          "title": "Jewels and Stones",
+          "titleSlug": "jewels-and-stones",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981594119,
+              "runtime": "1 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Hash Table/Jewels and Stones/"
             }
           }
         }
