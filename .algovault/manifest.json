@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:03:48.387Z",
+  "lastUpdated": "2026-09-21T09:03:58.856Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -920,6 +920,253 @@
               "runtime": "6 ms",
               "memory": "67.2 MB",
               "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
+            }
+          }
+        },
+        "search-a-2d-matrix": {
+          "questionId": "74",
+          "title": "Search a 2D Matrix",
+          "titleSlug": "search-a-2d-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981438855,
+              "runtime": "0 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Array/Search a 2D Matrix/"
+            }
+          }
+        },
+        "string-compression": {
+          "questionId": "443",
+          "title": "String Compression",
+          "titleSlug": "string-compression",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981438855,
+              "runtime": "3 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Two Pointers/String Compression/"
+            }
+          }
+        },
+        "isomorphic-strings": {
+          "questionId": "205",
+          "title": "Isomorphic Strings",
+          "titleSlug": "isomorphic-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981438855,
+              "runtime": "5 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
+            }
+          }
+        },
+        "remove-element": {
+          "questionId": "27",
+          "title": "Remove Element",
+          "titleSlug": "remove-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981438855,
+              "runtime": "0 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Remove Element/"
+            }
+          }
+        },
+        "unique-length-3-palindromic-subsequences": {
+          "questionId": "1930",
+          "title": "Unique Length-3 Palindromic Subsequences",
+          "titleSlug": "unique-length-3-palindromic-subsequences",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981438855,
+              "runtime": "30 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Hash Table/Unique Length-3 Palindromic Subsequences/"
+            }
+          }
+        },
+        "maximum-gap": {
+          "questionId": "164",
+          "title": "Maximum Gap",
+          "titleSlug": "maximum-gap",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Bucket Sort",
+            "Radix Sort",
+            "Pigeonhole Principle"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981438855,
+              "runtime": "58 ms",
+              "memory": "152.5 MB",
+              "githubPath": "LeetCode/Array/Maximum Gap/"
+            }
+          }
+        },
+        "find-peak-element": {
+          "questionId": "162",
+          "title": "Find Peak Element",
+          "titleSlug": "find-peak-element",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981438855,
+              "runtime": "0 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Array/Find Peak Element/"
+            }
+          }
+        },
+        "cut-off-trees-for-golf-event": {
+          "questionId": "675",
+          "title": "Cut Off Trees for Golf Event",
+          "titleSlug": "cut-off-trees-for-golf-event",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Breadth-First Search",
+            "Heap (Priority Queue)",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981438855,
+              "runtime": "432 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Cut Off Trees for Golf Event/"
+            }
+          }
+        },
+        "kth-smallest-number-in-multiplication-table": {
+          "questionId": "668",
+          "title": "Kth Smallest Number in Multiplication Table",
+          "titleSlug": "kth-smallest-number-in-multiplication-table",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981438855,
+              "runtime": "17 ms",
+              "memory": "41.7 MB",
+              "githubPath": "LeetCode/Math/Kth Smallest Number in Multiplication Table/"
+            }
+          }
+        },
+        "strange-printer": {
+          "questionId": "664",
+          "title": "Strange Printer",
+          "titleSlug": "strange-printer",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981438855,
+              "runtime": "135 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/String/Strange Printer/"
+            }
+          }
+        },
+        "set-intersection-size-at-least-two": {
+          "questionId": "757",
+          "title": "Set Intersection Size At Least Two",
+          "titleSlug": "set-intersection-size-at-least-two",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981438855,
+              "runtime": "10 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Set Intersection Size At Least Two/"
+            }
+          }
+        },
+        "decode-ways-ii": {
+          "questionId": "639",
+          "title": "Decode Ways II",
+          "titleSlug": "decode-ways-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981438855,
+              "runtime": "93 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/String/Decode Ways II/"
+            }
+          }
+        },
+        "smallest-range-covering-elements-from-k-lists": {
+          "questionId": "632",
+          "title": "Smallest Range Covering Elements from K Lists",
+          "titleSlug": "smallest-range-covering-elements-from-k-lists",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Greedy",
+            "Sliding Window",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1789981438856,
+              "runtime": "99 ms",
+              "memory": "85.8 MB",
+              "githubPath": "LeetCode/Array/Smallest Range Covering Elements from K Lists/"
             }
           }
         }
