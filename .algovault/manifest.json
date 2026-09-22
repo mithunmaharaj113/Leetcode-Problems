@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-22T15:50:30.040Z",
+  "lastUpdated": "2026-09-22T15:56:15.137Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4887,6 +4887,12 @@
               "syncedAt": 1790092230039,
               "runtime": "0 ms",
               "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Plus One/"
+            },
+            "567891011121314                digits[i]++;            return digits;            }         digits[i] = 0;        }        int[] result = new int[digits.length + 1];     result[0] = 1;        return result;    }}": {
+              "syncedAt": 1790092575137,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Plus One/"
             }
           }
