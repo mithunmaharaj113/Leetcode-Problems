@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-21T09:07:00.627Z",
+  "lastUpdated": "2026-09-22T15:50:30.040Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4870,6 +4870,24 @@
               "runtime": "1 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
+            }
+          }
+        },
+        "plus-one": {
+          "questionId": "66",
+          "title": "Plus One",
+          "titleSlug": "plus-one",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790092230039,
+              "runtime": "0 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Plus One/"
             }
           }
         }
