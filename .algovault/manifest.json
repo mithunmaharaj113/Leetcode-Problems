@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-22T15:56:29.175Z",
+  "lastUpdated": "2026-09-22T16:39:21.471Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4894,6 +4894,26 @@
               "runtime": "0 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/Array/Plus One/"
+            }
+          }
+        },
+        "same-tree": {
+          "questionId": "100",
+          "title": "Same Tree",
+          "titleSlug": "same-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790095161470,
+              "runtime": "0 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Tree/Same Tree/"
             }
           }
         }
