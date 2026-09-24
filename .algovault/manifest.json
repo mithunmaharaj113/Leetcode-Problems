@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-24T23:45:15.819Z",
+  "lastUpdated": "2026-09-24T23:45:27.301Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2042,7 +2042,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981480428,
+              "syncedAt": 1790293527301,
               "runtime": "0 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Linked List/Populating Next Right Pointers in Each Node/"
@@ -2063,7 +2063,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981480428,
+              "syncedAt": 1790293527301,
               "runtime": "1 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Linked List/Flatten Binary Tree to Linked List/"
@@ -2083,7 +2083,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981480428,
+              "syncedAt": 1790293527301,
               "runtime": "1 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Backtracking/Path Sum II/"
@@ -2104,7 +2104,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981480428,
+              "syncedAt": 1790293527301,
               "runtime": "0 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Linked List/Convert Sorted List to Binary Search Tree/"
@@ -2123,7 +2123,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981480428,
+              "syncedAt": 1790293527301,
               "runtime": "1 ms",
               "memory": "44.5 MB",
               "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal II/"
@@ -2144,7 +2144,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981480428,
+              "syncedAt": 1790293527301,
               "runtime": "1 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Construct Binary Tree from Inorder and Postorder Traversal/"
@@ -2165,7 +2165,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981480428,
+              "syncedAt": 1790293527301,
               "runtime": "5 ms",
               "memory": "61 MB",
               "githubPath": "LeetCode/Array/Construct Binary Tree from Preorder and Inorder Traversal/"
@@ -2184,7 +2184,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981492388,
+              "syncedAt": 1790293527301,
               "runtime": "0 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Tree/Binary Tree Zigzag Level Order Traversal/"
@@ -2203,7 +2203,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981492388,
+              "syncedAt": 1790293527301,
               "runtime": "1 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal/"
@@ -2223,7 +2223,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981492389,
+              "syncedAt": 1790293527301,
               "runtime": "1 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Tree/Recover Binary Search Tree/"
@@ -2243,7 +2243,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981492389,
+              "syncedAt": 1790293527301,
               "runtime": "0 ms",
               "memory": "44.5 MB",
               "githubPath": "LeetCode/Tree/Validate Binary Search Tree/"
@@ -2261,7 +2261,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981492389,
+              "syncedAt": 1790293527301,
               "runtime": "3 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/String/Interleaving String/"
@@ -2278,7 +2278,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981492389,
+              "syncedAt": 1790293527301,
               "runtime": "1 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Trie/K-th Smallest in Lexicographical Order/"
@@ -2298,7 +2298,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981492389,
+              "syncedAt": 1790293527301,
               "runtime": "93 ms",
               "memory": "80.8 MB",
               "githubPath": "LeetCode/Hash Table/All O`one Data Structure/"
@@ -2317,7 +2317,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981492389,
+              "syncedAt": 1790293527301,
               "runtime": "2 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/String/Strong Password Checker/"
@@ -2338,7 +2338,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981492389,
+              "syncedAt": 1790293527301,
               "runtime": "0 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Array/Split Array Largest Sum/"
@@ -2358,7 +2358,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981492390,
+              "syncedAt": 1790293527301,
               "runtime": "20 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Trapping Rain Water II/"
