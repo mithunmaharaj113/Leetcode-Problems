@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-23T18:04:53.321Z",
+  "lastUpdated": "2026-09-24T23:43:40.596Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -15,7 +15,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981392514,
+              "syncedAt": 1790293420596,
               "runtime": "2 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
@@ -34,13 +34,13 @@
           ],
           "solutions": {
             "cpp": {
-              "syncedAt": 1789981392514,
+              "syncedAt": 1790293420596,
               "runtime": "3 ms",
               "memory": "17.7 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
             },
             "java": {
-              "syncedAt": 1789981392514,
+              "syncedAt": 1790293420596,
               "runtime": "62 ms",
               "memory": "47.8 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
@@ -59,7 +59,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981392514,
+              "syncedAt": 1790293420596,
               "runtime": "1 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
@@ -78,7 +78,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981392514,
+              "syncedAt": 1790293420596,
               "runtime": "8 ms",
               "memory": "49.2 MB",
               "githubPath": "LeetCode/Array/Merge Intervals/"
@@ -97,7 +97,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981392514,
+              "syncedAt": 1790293420596,
               "runtime": "11 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
@@ -117,7 +117,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981392514,
+              "syncedAt": 1790293420596,
               "runtime": "740 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Hash Table/Permutation in String/"
@@ -134,7 +134,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1789981392514,
+              "syncedAt": 1790293420596,
               "runtime": "1171 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Students and Examinations/"
@@ -304,9 +304,9 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790186570837,
+              "syncedAt": 1790293420596,
               "runtime": "567 ms",
-              "memory": "0B",
+              "memory": "0.0B",
               "githubPath": "LeetCode/Database/Find Customer Referee/"
             }
           }
@@ -321,8 +321,8 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1789981400746,
-              "runtime": "313 ms",
+              "syncedAt": 1790293420596,
+              "runtime": "297 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Big Countries/"
             }
@@ -4884,7 +4884,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790092230039,
+              "syncedAt": 1790293420596,
               "runtime": "0 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Plus One/"
@@ -4910,7 +4910,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790095621822,
+              "syncedAt": 1790293420596,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Tree/Same Tree/"
@@ -4927,10 +4927,44 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790186693321,
+              "syncedAt": 1790293420596,
               "runtime": "793 ms",
-              "memory": "0B",
+              "memory": "0.0B",
               "githubPath": "LeetCode/Database/Average Selling Price/"
+            }
+          }
+        },
+        "invalid-tweets": {
+          "questionId": "1683",
+          "title": "Invalid Tweets",
+          "titleSlug": "invalid-tweets",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790293420595,
+              "runtime": "560 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Invalid Tweets/"
+            }
+          }
+        },
+        "article-views-i": {
+          "questionId": "1148",
+          "title": "Article Views I",
+          "titleSlug": "article-views-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790293420596,
+              "runtime": "431 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Article Views I/"
             }
           }
         }
