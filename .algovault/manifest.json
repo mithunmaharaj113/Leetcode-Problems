@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-24T23:45:59.067Z",
+  "lastUpdated": "2026-09-24T23:46:10.213Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3373,7 +3373,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981547078,
+              "syncedAt": 1790293570213,
               "runtime": "9 ms",
               "memory": "49 MB",
               "githubPath": "LeetCode/String/Serialize and Deserialize Binary Tree/"
@@ -3394,7 +3394,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981547078,
+              "syncedAt": 1790293570213,
               "runtime": "132 ms",
               "memory": "111.6 MB",
               "githubPath": "LeetCode/Two Pointers/Find Median from Data Stream/"
@@ -3413,7 +3413,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981547078,
+              "syncedAt": 1790293570213,
               "runtime": "78 ms",
               "memory": "47.3 MB",
               "githubPath": "LeetCode/Math/Expression Add Operators/"
@@ -3432,7 +3432,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981547078,
+              "syncedAt": 1790293570213,
               "runtime": "5 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Math/Integer to English Words/"
@@ -3454,7 +3454,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981547078,
+              "syncedAt": 1790293570213,
               "runtime": "29 ms",
               "memory": "149.8 MB",
               "githubPath": "LeetCode/Array/Sliding Window Maximum/"
@@ -3473,7 +3473,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981547078,
+              "syncedAt": 1790293570213,
               "runtime": "0 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Math/Number of Digit One/"
@@ -3493,7 +3493,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981547078,
+              "syncedAt": 1790293570213,
               "runtime": "7 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/Math/Basic Calculator/"
@@ -3514,7 +3514,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981563872,
+              "syncedAt": 1790293570213,
               "runtime": "58 ms",
               "memory": "127.2 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate III/"
@@ -3533,7 +3533,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981563872,
+              "syncedAt": 1790293570213,
               "runtime": "2 ms",
               "memory": "44.5 MB",
               "githubPath": "LeetCode/Array/Valid Sudoku/"
@@ -3551,7 +3551,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981563873,
+              "syncedAt": 1790293570213,
               "runtime": "0 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
@@ -3569,7 +3569,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981563873,
+              "syncedAt": 1790293570213,
               "runtime": "0 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Array/Search in Rotated Sorted Array/"
@@ -3587,7 +3587,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981563873,
+              "syncedAt": 1790293570213,
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Array/Next Permutation/"
@@ -3605,7 +3605,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981563873,
+              "syncedAt": 1790293570213,
               "runtime": "1 ms",
               "memory": "40.8 MB",
               "githubPath": "LeetCode/Math/Divide Two Integers/"
@@ -3623,7 +3623,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981563873,
+              "syncedAt": 1790293570213,
               "runtime": "0 ms",
               "memory": "41.5 MB",
               "githubPath": "LeetCode/Linked List/Swap Nodes in Pairs/"
@@ -3643,7 +3643,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981563873,
+              "syncedAt": 1790293570213,
               "runtime": "2 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/String/Generate Parentheses/"
@@ -3661,7 +3661,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981563873,
+              "syncedAt": 1790293570213,
               "runtime": "0 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/Linked List/Remove Nth Node From End of List/"
@@ -3680,7 +3680,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981563873,
+              "syncedAt": 1790293570213,
               "runtime": "15 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Array/4Sum/"
