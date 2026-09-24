@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-24T23:46:26.032Z",
+  "lastUpdated": "2026-09-24T23:46:56.417Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4040,7 +4040,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981578883,
+              "syncedAt": 1790293616417,
               "runtime": "0 ms",
               "memory": "41.7 MB",
               "githubPath": "LeetCode/Array/Text Justification/"
@@ -4057,7 +4057,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981578883,
+              "syncedAt": 1790293616417,
               "runtime": "1 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/String/Valid Number/"
@@ -4078,7 +4078,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981578883,
+              "syncedAt": 1790293616417,
               "runtime": "1 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/Trapping Rain Water/"
@@ -4098,7 +4098,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981578883,
+              "syncedAt": 1790293616417,
               "runtime": "45 ms",
               "memory": "45.9 MB",
               "githubPath": "LeetCode/Hash Table/Word Ladder/"
@@ -4119,7 +4119,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981594117,
+              "syncedAt": 1790293616417,
               "runtime": "19 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Hash Table/Word Ladder II/"
@@ -4140,7 +4140,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981594117,
+              "syncedAt": 1790293616417,
               "runtime": "0 ms",
               "memory": "44.3 MB",
               "githubPath": "LeetCode/Dynamic Programming/Binary Tree Maximum Path Sum/"
@@ -4158,7 +4158,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981594118,
+              "syncedAt": 1790293616417,
               "runtime": "4 ms",
               "memory": "61 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock III/"
@@ -4176,7 +4176,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981594118,
+              "syncedAt": 1790293616417,
               "runtime": "19 ms",
               "memory": "51.1 MB",
               "githubPath": "LeetCode/String/Distinct Subsequences/"
@@ -4197,7 +4197,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981594118,
+              "syncedAt": 1790293616417,
               "runtime": "19 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Array/Maximal Rectangle/"
@@ -4215,7 +4215,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981594118,
+              "syncedAt": 1790293616417,
               "runtime": "3 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/String/Scramble String/"
@@ -4234,7 +4234,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981594118,
+              "syncedAt": 1790293616417,
               "runtime": "17 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Hash Table/Minimum Window Substring/"
@@ -4254,7 +4254,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981594118,
+              "syncedAt": 1790293616417,
               "runtime": "71 ms",
               "memory": "60.5 MB",
               "githubPath": "LeetCode/Array/Largest Rectangle in Histogram/"
@@ -4272,7 +4272,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981594118,
+              "syncedAt": 1790293616417,
               "runtime": "1 ms",
               "memory": "41.1 MB",
               "githubPath": "LeetCode/Math/Permutation Sequence/"
@@ -4290,7 +4290,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981594118,
+              "syncedAt": 1790293616417,
               "runtime": "27 ms",
               "memory": "56.5 MB",
               "githubPath": "LeetCode/Array/First Missing Positive/"
@@ -4312,7 +4312,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981594118,
+              "syncedAt": 1790293616417,
               "runtime": "374 ms",
               "memory": "41.2 MB",
               "githubPath": "LeetCode/Array/Sudoku Solver/"
@@ -4331,7 +4331,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981594118,
+              "syncedAt": 1790293616417,
               "runtime": "9 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/3Sum Closest/"
