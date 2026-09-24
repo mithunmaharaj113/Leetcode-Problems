@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-24T23:45:27.301Z",
+  "lastUpdated": "2026-09-24T23:45:37.647Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2376,7 +2376,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981492390,
+              "syncedAt": 1790293537646,
               "runtime": "1 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
@@ -2394,7 +2394,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981492390,
+              "syncedAt": 1790293537646,
               "runtime": "49 ms",
               "memory": "49.4 MB",
               "githubPath": "LeetCode/Array/Frog Jump/"
@@ -2415,7 +2415,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981492390,
+              "syncedAt": 1790293537646,
               "runtime": "37 ms",
               "memory": "55.7 MB",
               "githubPath": "LeetCode/Array/Perfect Rectangle/"
@@ -2436,7 +2436,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981492391,
+              "syncedAt": 1790293537646,
               "runtime": "63 ms",
               "memory": "98.9 MB",
               "githubPath": "LeetCode/Array/Insert Delete GetRandom O(1) - Duplicates allowed/"
@@ -2457,7 +2457,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981492391,
+              "syncedAt": 1790293537646,
               "runtime": "220 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Max Sum of Rectangle No Larger Than K/"
@@ -2478,7 +2478,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981509862,
+              "syncedAt": 1790293537647,
               "runtime": "39 ms",
               "memory": "99.5 MB",
               "githubPath": "LeetCode/Array/Russian Doll Envelopes/"
@@ -2500,7 +2500,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981509862,
+              "syncedAt": 1790293537647,
               "runtime": "20 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Hash Table/Data Stream as Disjoint Intervals/"
@@ -2521,7 +2521,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981509862,
+              "syncedAt": 1790293537647,
               "runtime": "836 ms",
               "memory": "61.2 MB",
               "githubPath": "LeetCode/Array/Palindrome Pairs/"
@@ -2542,7 +2542,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981509862,
+              "syncedAt": 1790293537647,
               "runtime": "0 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Math/Unique Binary Search Trees/"
@@ -2561,7 +2561,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981509862,
+              "syncedAt": 1790293537647,
               "runtime": "2 ms",
               "memory": "59.4 MB",
               "githubPath": "LeetCode/Array/Self Crossing/"
@@ -2582,7 +2582,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981509862,
+              "syncedAt": 1790293537647,
               "runtime": "4 ms",
               "memory": "52.2 MB",
               "githubPath": "LeetCode/Dynamic Programming/Unique Binary Search Trees II/"
@@ -2600,7 +2600,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981509862,
+              "syncedAt": 1790293537647,
               "runtime": "2 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/String/Restore IP Addresses/"
@@ -2617,7 +2617,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981509862,
+              "syncedAt": 1790293537647,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Linked List/Reverse Linked List II/"
@@ -2635,7 +2635,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981509862,
+              "syncedAt": 1790293537647,
               "runtime": "1 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/String/Decode Ways/"
@@ -2654,7 +2654,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981509862,
+              "syncedAt": 1790293537647,
               "runtime": "3 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Array/Subsets II/"
@@ -2673,7 +2673,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981509862,
+              "syncedAt": 1790293537647,
               "runtime": "5 ms",
               "memory": "54.5 MB",
               "githubPath": "LeetCode/Math/Gray Code/"
@@ -2691,7 +2691,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1789981509862,
+              "syncedAt": 1790293537647,
               "runtime": "0 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Linked List/Partition List/"
