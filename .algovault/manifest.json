@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-26T17:07:57.191Z",
+  "lastUpdated": "2026-09-26T17:08:08.706Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1334,7 +1334,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272552,
+              "syncedAt": 1790442488705,
               "runtime": "14 ms",
               "memory": "49.6 MB",
               "githubPath": "LeetCode/Dynamic Programming/K Inverse Pairs Array/"
@@ -1351,7 +1351,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272552,
+              "syncedAt": 1790442488705,
               "runtime": "1623 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Dynamic Programming/Non-negative Integers without Consecutive Ones/"
@@ -1369,7 +1369,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272552,
+              "syncedAt": 1790442488705,
               "runtime": "1 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/String/Tag Validator/"
@@ -1390,7 +1390,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272552,
+              "syncedAt": 1790442488705,
               "runtime": "17 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Erect the Fence/"
@@ -1408,7 +1408,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272552,
+              "syncedAt": 1790442488705,
               "runtime": "8 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Math/Find the Closest Palindrome/"
@@ -1430,7 +1430,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272552,
+              "syncedAt": 1790442488705,
               "runtime": "34 ms",
               "memory": "84.7 MB",
               "githubPath": "LeetCode/Array/Maximize the Minimum Powered City/"
@@ -1450,7 +1450,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272552,
+              "syncedAt": 1790442488705,
               "runtime": "0 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Hash Table/Linked List Cycle II/"
@@ -1473,7 +1473,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272552,
+              "syncedAt": 1790442488705,
               "runtime": "3 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/Word Break/"
@@ -1491,7 +1491,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272552,
+              "syncedAt": 1790442488705,
               "runtime": "0 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Hash Table/Copy List with Random Pointer/"
@@ -1509,7 +1509,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272552,
+              "syncedAt": 1790442488705,
               "runtime": "6 ms",
               "memory": "46.2 MB",
               "githubPath": "LeetCode/Array/Single Number II/"
@@ -1527,7 +1527,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272552,
+              "syncedAt": 1790442488706,
               "runtime": "2 ms",
               "memory": "119.4 MB",
               "githubPath": "LeetCode/Array/Gas Station/"
@@ -1544,7 +1544,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272552,
+              "syncedAt": 1790442488706,
               "runtime": "167 ms",
               "memory": "178.9 MB",
               "githubPath": "LeetCode/Dynamic Programming/Student Attendance Record II/"
@@ -1563,7 +1563,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272552,
+              "syncedAt": 1790442488706,
               "runtime": "28 ms",
               "memory": "71.6 MB",
               "githubPath": "LeetCode/Array/Remove Boxes/"
@@ -1581,7 +1581,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272552,
+              "syncedAt": 1790442488706,
               "runtime": "1 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Super Washing Machines/"
@@ -1601,7 +1601,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272552,
+              "syncedAt": 1790442488706,
               "runtime": "10 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/String/Freedom Trail/"
@@ -1621,7 +1621,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272553,
+              "syncedAt": 1790442488706,
               "runtime": "111 ms",
               "memory": "133 MB",
               "githubPath": "LeetCode/Array/IPO/"
@@ -1645,7 +1645,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272553,
+              "syncedAt": 1790442488706,
               "runtime": "109 ms",
               "memory": "261.4 MB",
               "githubPath": "LeetCode/Array/Power Grid Maintenance/"
@@ -1665,7 +1665,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272553,
+              "syncedAt": 1790442488706,
               "runtime": "25 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Hash Table/Clone Graph/"
@@ -1684,7 +1684,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442272553,
+              "syncedAt": 1790442488706,
               "runtime": "7 ms",
               "memory": "65.1 MB",
               "githubPath": "LeetCode/String/Palindrome Partitioning/"
