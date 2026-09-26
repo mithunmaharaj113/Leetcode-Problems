@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-26T17:07:49.052Z",
+  "lastUpdated": "2026-09-26T17:07:57.191Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1048,7 +1048,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442261520,
+              "syncedAt": 1790442477191,
               "runtime": "0 ms",
               "memory": "44 MB",
               "githubPath": "LeetCode/Array/Find Peak Element/"
@@ -1068,7 +1068,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442261520,
+              "syncedAt": 1790442477191,
               "runtime": "432 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Cut Off Trees for Golf Event/"
@@ -1086,7 +1086,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442261520,
+              "syncedAt": 1790442477191,
               "runtime": "17 ms",
               "memory": "41.7 MB",
               "githubPath": "LeetCode/Math/Kth Smallest Number in Multiplication Table/"
@@ -1104,7 +1104,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442261520,
+              "syncedAt": 1790442477191,
               "runtime": "135 ms",
               "memory": "47.8 MB",
               "githubPath": "LeetCode/String/Strange Printer/"
@@ -1123,7 +1123,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442261520,
+              "syncedAt": 1790442477191,
               "runtime": "10 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Set Intersection Size At Least Two/"
@@ -1141,7 +1141,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442261520,
+              "syncedAt": 1790442477191,
               "runtime": "93 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/String/Decode Ways II/"
@@ -1163,7 +1163,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442261520,
+              "syncedAt": 1790442477191,
               "runtime": "99 ms",
               "memory": "85.8 MB",
               "githubPath": "LeetCode/Array/Smallest Range Covering Elements from K Lists/"
@@ -1181,7 +1181,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442261520,
+              "syncedAt": 1790442477191,
               "runtime": "1 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Maximum Product Subarray/"
@@ -1199,7 +1199,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442261520,
+              "syncedAt": 1790442477191,
               "runtime": "0 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Array/Find Minimum in Rotated Sorted Array/"
@@ -1219,7 +1219,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442261520,
+              "syncedAt": 1790442477191,
               "runtime": "38 ms",
               "memory": "57.4 MB",
               "githubPath": "LeetCode/Array/Course Schedule III/"
@@ -1238,7 +1238,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442261520,
+              "syncedAt": 1790442477191,
               "runtime": "6 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Array/Evaluate Reverse Polish Notation/"
@@ -1259,7 +1259,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442261520,
+              "syncedAt": 1790442477191,
               "runtime": "9 ms",
               "memory": "59.1 MB",
               "githubPath": "LeetCode/Linked List/Sort List/"
@@ -1277,7 +1277,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442261520,
+              "syncedAt": 1790442477191,
               "runtime": "18 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Linked List/Insertion Sort List/"
@@ -1297,7 +1297,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442261520,
+              "syncedAt": 1790442477191,
               "runtime": "50 ms",
               "memory": "134 MB",
               "githubPath": "LeetCode/Hash Table/LRU Cache/"
@@ -1317,7 +1317,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442261520,
+              "syncedAt": 1790442477191,
               "runtime": "2 ms",
               "memory": "48.8 MB",
               "githubPath": "LeetCode/Linked List/Reorder List/"
