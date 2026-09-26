@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-26T17:07:33.681Z",
+  "lastUpdated": "2026-09-26T17:07:40.898Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -583,7 +583,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442244896,
+              "syncedAt": 1790442460897,
               "runtime": "0 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Linked List/Delete Node in a Linked List/"
@@ -603,7 +603,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442244896,
+              "syncedAt": 1790442460897,
               "runtime": "0 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
@@ -621,7 +621,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442244896,
+              "syncedAt": 1790442460897,
               "runtime": "0 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
@@ -639,7 +639,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442244896,
+              "syncedAt": 1790442460897,
               "runtime": "0 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Linked List/Reverse Linked List/"
@@ -657,7 +657,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442244896,
+              "syncedAt": 1790442460897,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
@@ -676,7 +676,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442244896,
+              "syncedAt": 1790442460897,
               "runtime": "13 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/String/Dota2 Senate/"
@@ -695,7 +695,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442244896,
+              "syncedAt": 1790442460897,
               "runtime": "22 ms",
               "memory": "59.6 MB",
               "githubPath": "LeetCode/Design/Number of Recent Calls/"
@@ -714,7 +714,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442244896,
+              "syncedAt": 1790442460897,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Stack/Implement Queue using Stacks/"
@@ -734,7 +734,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442244896,
+              "syncedAt": 1790442460898,
               "runtime": "4 ms",
               "memory": "59.5 MB",
               "githubPath": "LeetCode/Array/Maximum Width Ramp/"
@@ -753,7 +753,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442244896,
+              "syncedAt": 1790442460898,
               "runtime": "5 ms",
               "memory": "77.3 MB",
               "githubPath": "LeetCode/Array/Container With Most Water/"
@@ -771,7 +771,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442244896,
+              "syncedAt": 1790442460898,
               "runtime": "34 ms",
               "memory": "99.9 MB",
               "githubPath": "LeetCode/Stack/Min Stack/"
@@ -788,7 +788,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442244897,
+              "syncedAt": 1790442460898,
               "runtime": "42 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/String/Zigzag Conversion/"
@@ -807,7 +807,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442244897,
+              "syncedAt": 1790442460898,
               "runtime": "24 ms",
               "memory": "48.8 MB",
               "githubPath": "LeetCode/Array/Subarray Sum Equals K/"
