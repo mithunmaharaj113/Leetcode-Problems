@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T18:25:27.453Z",
+  "lastUpdated": "2026-09-27T18:25:33.704Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -339,7 +339,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442438223,
+              "syncedAt": 1790533533703,
               "runtime": "24 ms",
               "memory": "50.2 MB",
               "githubPath": "LeetCode/Array/Degree of an Array/"
@@ -360,7 +360,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442438223,
+              "syncedAt": 1790533533704,
               "runtime": "24 ms",
               "memory": "139.8 MB",
               "githubPath": "LeetCode/Array/Continuous Subarray Sum/"
@@ -378,7 +378,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442438223,
+              "syncedAt": 1790533533704,
               "runtime": "2 ms",
               "memory": "72.5 MB",
               "githubPath": "LeetCode/Array/Product of Array Except Self/"
