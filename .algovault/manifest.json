@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-26T17:09:18.334Z",
+  "lastUpdated": "2026-09-27T18:23:32.338Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4985,6 +4985,25 @@
               "runtime": "1 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Tree/Symmetric Tree/"
+            }
+          }
+        },
+        "merge-sorted-array": {
+          "questionId": "88",
+          "title": "Merge Sorted Array",
+          "titleSlug": "merge-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790533412337,
+              "runtime": "0 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Array/Merge Sorted Array/"
             }
           }
         }

@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1790442558337" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/MITHUNMAHARAJ21?theme=tokyonight&show=graph,recent&v=1790533412383" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -59,6 +59,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 81 | [Search in Rotated Sorted Array II](./Array/Search%20in%20Rotated%20Sorted%20Array%20II/) | Medium |
 | 84 | [Largest Rectangle in Histogram](./Array/Largest%20Rectangle%20in%20Histogram/) | Hard |
 | 85 | [Maximal Rectangle](./Array/Maximal%20Rectangle/) | Hard |
+| 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/) | Medium |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/) | Medium |
