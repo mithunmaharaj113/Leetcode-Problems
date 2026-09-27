@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T18:27:56.213Z",
+  "lastUpdated": "2026-09-27T18:28:03.249Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4577,7 +4577,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442362778,
+              "syncedAt": 1790533683248,
               "runtime": "2 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/String/Detect Capital/"
@@ -4594,7 +4594,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790442362778,
+              "syncedAt": 1790533683248,
               "runtime": "0 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/String/To Lower Case/"
@@ -4612,7 +4612,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790293635218,
+              "syncedAt": 1790533683248,
               "runtime": "1 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/String/Rotate String/"
@@ -4632,7 +4632,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790293635218,
+              "syncedAt": 1790533683248,
               "runtime": "9 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Hash Table/First Unique Character in a String/"
@@ -4651,7 +4651,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790293635218,
+              "syncedAt": 1790533683249,
               "runtime": "5 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Hash Table/Valid Anagram/"
@@ -4669,7 +4669,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790293635218,
+              "syncedAt": 1790533683249,
               "runtime": "6 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
@@ -4687,7 +4687,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790293635218,
+              "syncedAt": 1790533683249,
               "runtime": "1 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Array/Find Numbers with Even Number of Digits/"
@@ -4706,7 +4706,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790293635218,
+              "syncedAt": 1790533683249,
               "runtime": "0 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Array/Sort Array By Parity/"
@@ -4723,7 +4723,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790293635218,
+              "syncedAt": 1790533683249,
               "runtime": "3 ms",
               "memory": "50.8 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones/"
@@ -4741,7 +4741,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790293635218,
+              "syncedAt": 1790533683249,
               "runtime": "1 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/Array/Average Salary Excluding the Minimum and Maximum Salary/"
