@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T18:25:27.379Z",
+  "lastUpdated": "2026-09-27T18:25:27.453Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -15,7 +15,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790533519183,
+              "syncedAt": 1790533519304,
               "runtime": "2 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
@@ -34,13 +34,13 @@
           ],
           "solutions": {
             "cpp": {
-              "syncedAt": 1790533519183,
+              "syncedAt": 1790533519305,
               "runtime": "3 ms",
               "memory": "17.7 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
             },
             "java": {
-              "syncedAt": 1790533527378,
+              "syncedAt": 1790533527452,
               "runtime": "62 ms",
               "memory": "47.8 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
@@ -59,7 +59,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790533519183,
+              "syncedAt": 1790533519305,
               "runtime": "1 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
@@ -78,7 +78,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790533519183,
+              "syncedAt": 1790533519305,
               "runtime": "8 ms",
               "memory": "49.2 MB",
               "githubPath": "LeetCode/Array/Merge Intervals/"
@@ -97,7 +97,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790533519183,
+              "syncedAt": 1790533519305,
               "runtime": "11 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
@@ -117,7 +117,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790533519183,
+              "syncedAt": 1790533519305,
               "runtime": "740 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Hash Table/Permutation in String/"
@@ -134,7 +134,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790533527378,
+              "syncedAt": 1790533527453,
               "runtime": "1171 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Students and Examinations/"
@@ -151,7 +151,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790533527379,
+              "syncedAt": 1790533527453,
               "runtime": "569 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
@@ -168,7 +168,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790533527379,
+              "syncedAt": 1790533527453,
               "runtime": "491 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Rising Temperature/"
@@ -185,7 +185,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790533527379,
+              "syncedAt": 1790533527453,
               "runtime": "395 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
@@ -202,7 +202,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790533527379,
+              "syncedAt": 1790533527453,
               "runtime": "437 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Combine Two Tables/"
@@ -219,7 +219,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790533527379,
+              "syncedAt": 1790533527453,
               "runtime": "262 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Not Boring Movies/"
@@ -236,7 +236,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790533527379,
+              "syncedAt": 1790533527453,
               "runtime": "287 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Triangle Judgement/"
@@ -253,7 +253,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790533527379,
+              "syncedAt": 1790533527453,
               "runtime": "421 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Duplicate Emails/"
@@ -270,7 +270,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790533527379,
+              "syncedAt": 1790533527453,
               "runtime": "292 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Second Highest Salary/"
@@ -287,7 +287,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790533527379,
+              "syncedAt": 1790533527453,
               "runtime": "579 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Game Play Analysis I/"
@@ -304,7 +304,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790533519183,
+              "syncedAt": 1790533519304,
               "runtime": "567 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Find Customer Referee/"
@@ -321,7 +321,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790533519183,
+              "syncedAt": 1790533519304,
               "runtime": "297 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Big Countries/"
@@ -4884,7 +4884,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790533519183,
+              "syncedAt": 1790533519304,
               "runtime": "0 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Plus One/"
@@ -4910,7 +4910,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790533519183,
+              "syncedAt": 1790533519304,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Tree/Same Tree/"
@@ -4927,7 +4927,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790533519183,
+              "syncedAt": 1790533519304,
               "runtime": "793 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Average Selling Price/"
@@ -4944,7 +4944,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790533519183,
+              "syncedAt": 1790533519304,
               "runtime": "560 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Invalid Tweets/"
@@ -4961,7 +4961,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790533519183,
+              "syncedAt": 1790533519304,
               "runtime": "431 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Article Views I/"
@@ -4981,7 +4981,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790533519183,
+              "syncedAt": 1790533519304,
               "runtime": "1 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Tree/Symmetric Tree/"
@@ -5000,7 +5000,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790533519183,
+              "syncedAt": 1790533519304,
               "runtime": "0 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Array/Merge Sorted Array/"
@@ -5017,7 +5017,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790533519182,
+              "syncedAt": 1790533519303,
               "runtime": "1214 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Replace Employee ID With The Unique Identifier/"
