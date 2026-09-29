@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-29T04:38:11.908Z",
+  "lastUpdated": "2026-09-29T04:39:19.980Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5054,6 +5054,12 @@
               "syncedAt": 1790656691908,
               "runtime": "1391 ms",
               "memory": "0B",
+              "githubPath": "LeetCode/Database/Customer Who Visited but Did Not Make Any Transactions/"
+            },
+            "sql": {
+              "syncedAt": 1790656759979,
+              "runtime": "90 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Database/Customer Who Visited but Did Not Make Any Transactions/"
             }
           }
