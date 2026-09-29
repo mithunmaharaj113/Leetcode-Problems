@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-29T04:19:22.082Z",
+  "lastUpdated": "2026-09-29T04:38:11.908Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5038,6 +5038,23 @@
               "runtime": "1262 ms",
               "memory": "0B",
               "githubPath": "LeetCode/Database/Product Sales Analysis I/"
+            }
+          }
+        },
+        "customer-who-visited-but-did-not-make-any-transactions": {
+          "questionId": "1581",
+          "title": "Customer Who Visited but Did Not Make Any Transactions",
+          "titleSlug": "customer-who-visited-but-did-not-make-any-transactions",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790656691908,
+              "runtime": "1391 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Customer Who Visited but Did Not Make Any Transactions/"
             }
           }
         }
